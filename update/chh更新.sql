@@ -1,1 +1,0 @@
-UPDATE `%DB_PREFIX%role_node` SET name='抵用优惠券' WHERE id='435';
