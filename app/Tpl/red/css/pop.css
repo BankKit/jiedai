@@ -1,0 +1,39 @@
+.pbox{ font-size:14px; padding:20px; text-align:left;}
+.from li{ padding:10px 0;}
+.from li span{ vertical-align:middle; display:inline-block; width:100px; text-align:right; margin-right:10px;}
+.from li font{ color:#F00; vertical-align:middle; margin-right:3px;}
+.from li cite{ font-style:normal; vertical-align:middle; color:#999; margin-left:30px;}
+.from li strong{ font-weight:normal; vertical-align:middle;}
+.from .ft input{ vertical-align:middle; width:180px; height:24px; line-height:24px; border:1px solid #ECECEC; background-color:#FFF; font-size:14px; font-family:"微软雅黑",Arial,"宋体"; color:#666;}
+.from .fs select{ vertical-align:middle; width:180px; font-size:14px; font-family:"微软雅黑",Arial,"宋体"; color:#666;}
+.from .btn a{ display:inline-block; height:25px; line-height:25px; padding:0 15px; font-style:normal; text-align:center; color:#FFF; background:#0697DA; border-radius:13px; behavior:url(../css/pie.htc);}
+.from .btn input{ display:inline-block; height:25px; line-height:25px; padding:0 15px; margin-right:20px; border:none; font-size:14px; font-family:"微软雅黑",Arial,"宋体"; cursor:pointer; font-style:normal; text-align:center; color:#FFF; background:#0697DA; border-radius:13px; behavior:url(../css/pie.htc);}
+
+.addbc .from .btn-grey{ background:#999;}
+.addbc p{ margin:15px 10px 0 10px; line-height:30px; border-top:1px solid #ECECEC; padding-top:15px;}
+.addbc ol{ list-style:decimal; padding-left:20px; margin:0 10px; line-height:30px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

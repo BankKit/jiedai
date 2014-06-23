@@ -1,0 +1,18 @@
+html, body, ul, li, ol, dl, dd, dt, p, h1, h2, h3, h4, h5, h6, form, fieldset, legend, img, th, td{ margin:0; padding:0;}
+fieldset, img{ border:none;}
+address, caption, cite, code, dfn, th, var{ ont-style:normal; font-weight:normal;}
+ul, ol{ list-style:none;}
+input{ font-family: "SimSun","宋体";}
+select, input{ vertical-align:middle; }
+select, input, textarea{ font-size:12px; padding:0; margin:0;}
+table{ border-collapse:collapse;}
+body { background:#fff; color:#666; font-size:12px; text-align:center; font-family:"微软雅黑",Arial,"宋体"; /*font-family:"微软雅黑",Arial,SimSun,"宋体";*/}
+.clearfix:after{ content:"."; display:block; height:0; visibility:hidden; clear:both;}
+.clearfix{ zoom:1;}
+.clearit{ clear:both; height:0; font-size:0; overflow:hidden;}
+a{ color:#666; text-decoration:none;}
+a:visited{ color:#666;}
+a:hover, a:active, a:focus{ color:#00A8E8;}
+a:hover{text-decoration:none;}
+a:focus{-moz-outline-style: none;}/*针对firefox*/
+.red{ color:#F00;}
