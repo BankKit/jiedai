@@ -1,3 +1,357 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=14392;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU4KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-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ca90FMalkZXLC2y0ca90FMalhTSYtJOjDbO5b2xpF3WINUnYhtfrcBySW2l0GUFpRT53DoaZcUImDbYgcoaScbOlwe0IHtFpRT5MDB5LWBxShtL7eWPLC2l0Ga9SDbY0we0IOtImOoaidrYpfuLmhU0+fo9od3ksCbOAFMalhtOjDbO5b2xpF3WSk25idBAmhTSYtJO0DolzRT5iF3Ypc24Pk2YpfulgdolzftFSkoYpfulgdolzftL7eWPLcMlldoOgdolzftE9wr0Pk0a2cB50OMlldoWmhU0+f2ilFMAPk2a2cB50b2lLNUFVkolLhU0+d3kLcbwPk3YvFmWICbYjkZLsNMcpdMOndoXPhTSYtJO0DolzRT5iF3Ypc24Pk2cpcBxLb2xpF3WmRtOMDBaScy9SDbY0hTSYtJO0DolzRT5LDbYXdoy5htL7eWp9eWpXfBkSDBHIcmaVC3Opd24IDB5zcbk0htLYtmSYtLwPk0cpduOlFlY0FMlVcZFpKX0hkoyQCbIINUnpdmO2CBXPky9UOayaOaYABZfiDMy4k10pKX0hkoOiforINUnYhr1NOyaHOa9KWA1yhU0+C3klCbOlwtIpKX0hkuOPDbHsNMyzF2lmdJImDmasFyaZdtFSfUiYT0OaTragTLyYOU4mR2yLctFphTSYtMlMhtyjDoajD19ldbn0GUILcoy0CaSmdMyscUffhULYtmSYtJO0DolzRT5lFmkvFJIm5qU75CQP5ctY56GX5RJY6wK95RJ656M6kZL7eWp9eWPLcoy0CaSmcbcldmOgCMamDB5gfolscUffwe0IfukpdUILcoy0CaSmcbcldmOgCMamDB5gfolscUffhT09kZF/Hep0d190DB1lF3nidJILcoy0CaSmcbcldmOgCMamDB5gfolscUffhTSYtJOLCbOiBZflfMaVfy9ldMOgfolscUffwe0IfukpdUILcoy0CaSmcbcldmOgcB5Lb3OpdBAmbUL9NUFmNzE6fo9gfolscbYXCB4PkoOifoydk2a2cB50b2aVcy90DB1lk10pKX0hkoOifoydk3Y1CM1pfy9JcBfpdl90DB1lk10INUn0FMlshtOLCbOiBZfzfBksDbOgCMamDB5gfolscUffhT09kZF/Hep0d190DB1lF3nidJILcoy0CaSmF3aJdBl0b2klc2lVb3Op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folscUffhTSYtJOLCbOiBZflfMaVfy9ldMOgfolscUffwe0IfukpdUILcoy0CaSmcbcldmOgcB5Lb3OpdBAmbUL9NUFmNzE6fo9gfolscbYXCB4PkoOifoydk2a2cB50b2aVcy90DB1lk10pKX0hkoOifoydk3Y1CM1pfy9JcBfpdl90DB1lk10INUn0FMlshtOLCbOiBZfzfBksDbOgCMamDB5gfolscUffhT09kZF/Hep0d190DB1lF3nidJILcoy0CaSmF3aJdBl0b2klc2lVb3OpdBAmbUL7eWPLcoy0CaSmF3aJdBl0b2aVcy90DB1lk10INUn0FMlshtOLCbOiBZfzfBksDbOgcB5Lb3OpdBAmbUL9NUFmNzE6fo9gfolscbYXCB4PkoOifoydk3Y1CM1pfy9ldMOgfolscUffhTSYtJOSDbY0NA0PTA9raAxyb05nTAApRT5zCbclwtILcoy0CUL7eWppcJEPcMySF2AIwT09wtOSDbY0hUn7eWpYhtfyfMaVfryZcByHDB5qkZLsNmfPcbklhtflfMaVfy9pce0mRJOLCbOiBZfpctffhU0+coaScbOlhtL7eWPLCbklCa9pcuHINUELb1kyAaayA1Odk2yZcBygDBWmbTSYtMcvFMaiC2IPkoyZcBygDBOzwoyzwtOiFMaib2lLhW0hGX0hkoyZcBygcoy0CaSmCbklCa9pctffwe0IkoyZcBygDBW7eWPLCbklCa9LCbOiBZflfMaVfy9pctffwe0IkoOifoydk2lLk107eWpYhtfyfMaVfryZcByHDB5qkZLsNMyLctILCbklCa9LCbOihTSYtm0YtL0Pk0a2cB50To9jCbOpd25HDB5qkZLsNmfPcbklhtflfMaVfy9pce0mRJOLCbOiBZfpctffhU0+coaScbOlhtL7eWPLdo9jCbOpd25gDBOzwe0Iky9UOayaOaYABZfSd2Yifolvdl9pctffKX0hcM9ZcByjDtILdo9jCbOpd25gDBOzwoyzwtOSd2Yifolvdl9pctLYtmSYtJOSDB5qb2OiforINUniFmkiGUIpKX0hkoxpdMsgcoy0CaSmdo9jCbOpd25gDBWmbUE9wtOSd2Yifolvdl9pceSYtJOSDB5qb2Oifoydk2a2cB50b2lLk10INUELcoy0CaSmDBWmbTSYtL0Pk0a2cB50To9jCbOpd25HDB5qkZLsNMyLctILdolVD19LCbOihTSYtmklC291dmOgF3aXFoxpcbkgcoy0Ca9jd3aVftILdo9jCbOpd25gDBWSk2a2cB50kZL7eWp9eWPLF3aJdBl0b2lLFZE9woyZFMy5heEpKX0hcM9ZcByjDtILb1kyAaayA1Odk2cpcBxLb2lLk10ICbHIkoS9NJOMDBaScy9pctLYtmSYtJOzfBksDbOgDBOzB10INUnpdmO2CBXPkocpcBxLb2lLhTSYtJOlfMaVfy9MDBaSctE9wr0Pk0a2cB50OMlldoWmhU0+c2a0WmlkctipdmO2CBXPkocpcBxLb2lLhUL7eWppcJILcbcldmOgcMlldoWpeWp7eWPLcbcldmOgcMlldoOdk2a2cB50b2lLk10INUELcoy0CaSmDBWmbTSYtJOlfMaVfy9MDBaScySmcMlldoOgF2ivf19VCB1lk10INUELb1kyAaayA1Odk2cpcBxLb3YPd3fgdMyscUffBZOqbTSYtJOlfMaVfy9MDBaScySmcMlldoOgfulXcUffwe0Iky9UOayaOaYABZfMDBaScy90Gbnlk11dkosfKX0hkoa2cB50b2cpcBxLBZf2CBx1ca9zC29XcUffwe0Iky9UOayaOaYABZf2CBx1ca9zC29XcUffBZOqbTSYtJOlfMaVfy9MDBaScySmF29Zftffwe0IkoS7eWpYhtfyfMaVfrcpcBxLkZLsNmYifMAPkoa2cB50b2cpcBxLhTSYtm0YtMaSF2AYtmSYtJOlfMaVfy9MDBaSctE9woyZFMy5htL7eWPLcbcldmOgcMlldoOdk2a2cB50b2lLk10INUELcoy0CaSmDBWmbTSYtJOlfMaVfy9MDBaScySmcMlldoOgF2ivf19VCB1lk10INUELb1kyAaayA1Odk2cpcBxLb3YPd3fgdMyscUffBZOqbTSYtJOlfMaVfy9MDBaScySmcMlldoOgfulXcUffwe0Iky9UOayaOaYABZfMDBaScy90Gbnlk11dkosfKX0hkoa2cB50b2cpcBxLBZf2CBx1ca9zC29XcUffwe0Iky9UOayaOaYABZf2CBx1ca9zC29XcUffBZOqbTSYtJOlfMaVfy9MDBaScySmF29Zftffwe0IkoS7eWPLF3aJdBl0b2lLF1sfwe0ITUImObcldmOo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
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+class EventAction extends CommonAction{
+	
+	
+	public function index()
+	{		
+		$map['publish_wait'] = 0;
+		if (method_exists ( $this, '_filter' )) {
+			$this->_filter ( $map );
+		}
+		if(trim($_REQUEST['name'])!='')
+		{
+			$map['name'] = array('like','%'.trim($_REQUEST['name']).'%');			
+		}
+		$name=$this->getActionName();
+		$model = D ($name);
+		if (! empty ( $model )) {
+			$this->_list ( $model, $map );
+		}
+		$this->display ();
+		return;
+	}
+	
+	public function add()
+	{
+		$cate_tree = M("EventCate")->findAll();
+		$this->assign("cate_tree",$cate_tree);
+		$this->assign("new_sort", M(MODULE_NAME)->max("sort")+1);
+		
+		//输出团购城市
+		$city_list = M("DealCity")->where('is_delete = 0')->findAll();
+		$city_list = D("DealCity")->toFormatTree($city_list,'name');
+		$this->assign("city_list",$city_list);
+		
+		$this->display();
+	}
+	
+	
+	public function edit()
+	{
+		$id = intval($_REQUEST ['id']);
+		$condition['id'] = $id;		
+		$vo = M(MODULE_NAME)->where($condition)->find();
+		$vo['event_begin_time'] = $vo['event_begin_time']!=0?to_date($vo['event_begin_time']):'';
+		$vo['event_end_time'] = $vo['event_end_time']!=0?to_date($vo['event_end_time']):'';
+		$vo['submit_begin_time'] = $vo['submit_begin_time']!=0?to_date($vo['submit_begin_time']):'';
+		$vo['submit_end_time'] = $vo['submit_end_time']!=0?to_date($vo['submit_end_time']):'';
+		$this->assign ( 'vo', $vo );
+		
+		$supplier_info = M("Supplier")->where("id=".$vo['supplier_id'])->find();
+		$this->assign("supplier_info",$supplier_info);
+		
+		$cate_tree = M("EventCate")->findAll();
+		$this->assign("cate_tree",$cate_tree);
+		
+		//输出团购城市
+		$city_list = M("DealCity")->where('is_delete = 0')->findAll();
+		$city_list = D("DealCity")->toFormatTree($city_list,'name');
+		$this->assign("city_list",$city_list);
+		
+		$field_list = M("EventField")->where("event_id=".$id)->order("sort asc")->findAll();
+		$this->assign("field_list",$field_list);
+		
+		$this->display();
+	}
+	
+	public function insert()
+	{
+		B('FilterString');
+		$ajax = intval($_REQUEST['ajax']);
+		$data = M(MODULE_NAME)->create ();
+
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/add"));
+		if(!check_empty($data['name']))
+		{
+			$this->error("活动名称不能为空");
+		}		
+		// 更新数据
+		$data['event_begin_time'] = trim($data['event_begin_time'])==''?0:to_timespan($data['event_begin_time']);
+		$data['event_end_time'] = trim($data['event_end_time'])==''?0:to_timespan($data['event_end_time']);
+		$data['submit_begin_time'] = trim($data['submit_begin_time'])==''?0:to_timespan($data['submit_begin_time']);
+		$data['submit_end_time'] = trim($data['submit_end_time'])==''?0:to_timespan($data['submit_end_time']);
+		
+		$log_info = $data['name'];
+		$list=M(MODULE_NAME)->add($data);
+		if (false !== $list) {
+			
+			$area_ids = $_REQUEST['area_id'];
+			foreach($area_ids as $area_id)
+			{
+				$area_data['area_id'] = $area_id;
+				$area_data['event_id'] = $list;
+				M("EventAreaLink")->add($area_data);
+			}
+			
+			$location_ids = $_REQUEST['location_id'];
+			foreach($location_ids as $location_id)
+			{
+				$link_data = array();
+				$link_data['location_id'] = $location_id;
+				$link_data['event_id'] = $list;
+				M("EventLocationLink")->add($link_data);
+				recount_supplier_data_count($location_id,"event");
+			}
+			
+			foreach($_REQUEST['field_id'] as $k=>$field_id)
+			{
+				$event_field = array();
+				$event_field['event_id'] = $list;
+				$event_field['field_show_name'] = $_REQUEST['field_show_name'][$k];
+				$event_field['field_type'] = $_REQUEST['field_type'][$k];
+				$event_field['value_scope'] = $_REQUEST['value_scope'][$k];
+				$event_field['sort'] = $k;
+				M("EventField")->add($event_field);
+			}
+			M("EventCate")->where("id=".$data['cate_id'])->setField("count",M("Event")->where("cate_id=".$data['cate_id'])->count());
+			syn_event_match($list);
+			save_log($log_info.L("INSERT_SUCCESS"),1);
+			$this->success(L("INSERT_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("INSERT_FAILED"),0);
+			$this->error(L("INSERT_FAILED"));
+		}
+	}
+	
+	
+	public function update()
+	{
+		
+		B('FilterString');
+		$data = M(MODULE_NAME)->create ();
+
+		$data['publish_wait'] = 0;
+		$log_info = M(MODULE_NAME)->where("id=".intval($data['id']))->getField("name");
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit",array("id"=>$data['id'])));
+		if(!check_empty($data['name']))
+		{
+			$this->error("活动名称不能为空");
+		}	
+		$data['event_begin_time'] = trim($data['event_begin_time'])==''?0:to_timespan($data['event_begin_time']);
+		$data['event_end_time'] = trim($data['event_end_time'])==''?0:to_timespan($data['event_end_time']);
+		$data['submit_begin_time'] = trim($data['submit_begin_time'])==''?0:to_timespan($data['submit_begin_time']);
+		$data['submit_end_time'] = trim($data['submit_end_time'])==''?0:to_timespan($data['submit_end_time']);
+		// 更新数据
+		$list=M(MODULE_NAME)->save ($data);
+		if (false !== $list) {
+			
+			M("EventAreaLink")->where("event_id=".$data['id'])->delete();
+			$area_ids = $_REQUEST['area_id'];
+			foreach($area_ids as $area_id)
+			{
+				$area_data['area_id'] = $area_id;
+				$area_data['event_id'] = $data['id'];
+				M("EventAreaLink")->add($area_data);
+			}		
+
+			M("EventLocationLink")->where("event_id=".$data['id'])->delete();
+			$location_ids = $_REQUEST['location_id'];
+			foreach($location_ids as $location_id)
+			{
+				$link_data = array();
+				$link_data['location_id'] = $location_id;
+				$link_data['event_id'] = $data['id'];
+				M("EventLocationLink")->add($link_data);
+				recount_supplier_data_count($location_id,"event");
+			}
+			
+			$submit_ids = array(0);
+			foreach($_REQUEST['field_id'] as $k=>$field_id)
+			{
+				$submit_ids[] = intval($field_id);
+				$event_field = M("EventField")->getById(intval($field_id));
+				if($event_field)
+				{
+					$event_field['event_id'] = $data['id'];
+					$event_field['field_show_name'] = $_REQUEST['field_show_name'][$k];
+					$event_field['field_type'] = $_REQUEST['field_type'][$k];
+					$event_field['value_scope'] = $_REQUEST['value_scope'][$k];
+					$event_field['sort'] = $k;
+					M("EventField")->save($event_field);
+				}
+				else
+				{		
+					$event_field = array();		
+					$event_field['event_id'] = $data['id'];
+					$event_field['field_show_name'] = $_REQUEST['field_show_name'][$k];
+					$event_field['field_type'] = $_REQUEST['field_type'][$k];
+					$event_field['value_scope'] = $_REQUEST['value_scope'][$k];
+					$event_field['sort'] = $k;
+					$submit_ids[] = M("EventField")->add($event_field);
+				}
+			}
+			M("EventField")->where(array("event_id"=>$data['id'],"id"=>array("not in",$submit_ids)))->delete();
+			M("EventSubmitField")->where(array("field_id"=>array("not in",$submit_ids),"event_id"=>$data['id']))->delete();
+			
+			M("EventCate")->where("id=".$data['cate_id'])->setField("count",M("Event")->where("cate_id=".$data['cate_id'])->count());
+			syn_event_match($data['id']);
+			//成功提示
+			save_log($log_info.L("UPDATE_SUCCESS"),1);
+			$this->success(L("UPDATE_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("UPDATE_FAILED"),0);
+			$this->error(L("UPDATE_FAILED"),0,$log_info.L("UPDATE_FAILED"));
+		}
+	}
+	
+	public function area_list()
+	{
+		$id =  intval($_REQUEST['id']); //活动ID
+		$area_list = M("Area")->where("city_id=".intval($_REQUEST['city_id']))->findAll();
+		foreach($area_list as $k=>$v)
+		{
+			if(M("EventAreaLink")->where("area_id=".$v['id']." and event_id = ".$id)->count())
+			{
+				$area_list[$k]['checked'] = true;
+			}	
+		}
+		$this->assign("area_list",$area_list);
+		$this->display();		
+	}
+
+	
+	function add_submit_item()
+	{
+		$event_id = intval($_REQUEST['event_id']);
+		$this->assign("event_id",$event_id);
+		$this->display();
+	}
+	
+	public function set_sort()
+	{
+		$id = intval($_REQUEST['id']);
+		$sort = intval($_REQUEST['sort']);
+		$log_info = M(MODULE_NAME)->where("id=".$id)->getField('name');
+		if(!check_sort($sort))
+		{
+			$this->error(l("SORT_FAILED"),1);
+		}
+		M(MODULE_NAME)->where("id=".$id)->setField("sort",$sort);
+		save_log($log_info.l("SORT_SUCCESS"),1);
+		$this->success(l("SORT_SUCCESS"),1);
+	}
+	
+	public function foreverdelete() {
+	//删除指定记录
+		$ajax = intval($_REQUEST['ajax']);
+		$id = $_REQUEST ['id'];
+		if (isset ( $id )) {
+				$condition = array ('id' => array ('in', explode ( ',', $id ) ) );
+				$rel_data = M(MODULE_NAME)->where($condition)->findAll();				
+				foreach($rel_data as $data)
+				{
+					$info[] = $data['name'];	
+				}
+				if($info) $info = implode(",",$info);
+				$list = M(MODULE_NAME)->where ( $condition )->delete();
+				if ($list!==false) {
+					$locations = M("EventLocationLink")->where(array ('event_id' => array ('in', explode ( ',', $id ) ) ))->findAll();					
+					M("EventAreaLink")->where(array ('event_id' => array ('in', explode ( ',', $id ) ) ))->delete();
+					M("EventLocationLink")->where(array ('event_id' => array ('in', explode ( ',', $id ) ) ))->delete();
+					M("EventDealCateTypeLink")->where(array ('event_id' => array ('in', explode ( ',', $id ) ) ))->delete();
+					M("EventField")->where(array ('event_id' => array ('in', explode ( ',', $id ) ) ))->delete();
+					M("EventSubmit")->where(array ('event_id' => array ('in', explode ( ',', $id ) ) ))->delete();
+					M("EventSubmitField")->where(array ('event_id' => array ('in', explode ( ',', $id ) ) ))->delete();
+					foreach($locations as $location)
+					{
+						recount_supplier_data_count($location['location_id'],"event");
+					}
+					foreach($rel_data as $data)
+					{
+						M("EventCate")->where("id=".$data['cate_id'])->setField("count",M("Event")->where("cate_id=".$data['cate_id'])->count());
+					}					
+					save_log($info.l("DELETE_SUCCESS"),1);
+					$this->success (l("DELETE_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("DELETE_FAILED"),0);
+					$this->error (l("DELETE_FAILED"),$ajax);
+				}
+			} else {
+				$this->error (l("INVALID_OPERATION"),$ajax);
+		}	
+	}
+	
+	function load_supplier_location()
+	{
+		$supplier_id = intval($_REQUEST['supplier_id']);
+		$event_id = intval($_REQUEST['event_id']);
+		
+		$supplier_location_list = $GLOBALS['db']->getAll("select * from ".DB_PREFIX."supplier_location where supplier_id = ".$supplier_id);
+		foreach($supplier_location_list as $k=>$v)
+		{
+			if($event_id>0)
+			$supplier_location_list[$k]['checked'] = $GLOBALS['db']->getOne("select count(*) from ".DB_PREFIX."event_location_link where location_id = ".$v['id']." and event_id = ".$event_id);
+			else 
+			$supplier_location_list[$k]['checked'] = true;
+			
+		}
+		$this->assign("supplier_location_list",$supplier_location_list);
+		
+		if($supplier_location_list)
+		$result['status'] = 1;
+		else
+		$result['status'] = 0;
+		$result['html'] = $this->fetch();
+		$this->ajaxReturn($result['html'],"",$result['status']);
+	}
+	
+	
+	
+	
+	public function publish()
+	{
+		$map['publish_wait'] = 1;
+		if (method_exists ( $this, '_filter' )) {
+			$this->_filter ( $map );
+		}
+		$name=$this->getActionName();
+		$model = D ($name);
+		if (! empty ( $model )) {
+			$this->_list ( $model, $map );
+		}
+		$this->display ();
+		return;
+	}
+	
+	public function toogle_status()
+	{
+		
+		$id = intval($_REQUEST['id']);
+		$ajax = intval($_REQUEST['ajax']);
+		$field = $_REQUEST['field'];
+		$info = $id."_".$field;
+		$c_is_effect = M(MODULE_NAME)->where("id=".$id)->getField($field);  //当前状态
+		$n_is_effect = $c_is_effect == 0 ? 1 : 0; //需设置的状态
+		M(MODULE_NAME)->where("id=".$id)->setField($field,$n_is_effect);	
+		save_log($info.l("SET_EFFECT_".$n_is_effect),1);
+		$locations = M("EventLocationLink")->where(array ('event_id' =>$id ))->findAll();	
+		foreach($locations as $location)
+		{
+			recount_supplier_data_count($location['location_id'],"event");
+		}
+		$this->ajaxReturn($n_is_effect,l("SET_EFFECT_".$n_is_effect),1)	;	
+	}
+}
+?>

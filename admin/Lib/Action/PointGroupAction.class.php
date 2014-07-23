@@ -1,3 +1,127 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=3616;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU3KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-f2ipdoAPfolscUIpNjr0HjEXYzE0HeEpcollhtfrcBxlfoAIW2yjDoAVkZL7kr9NHenNHenNHe1zfukgFMaXdoyjcUImb19oUAxyb18mRtwmwJ4LT09NHr8XTzEXRJwmwJXPkr9NTzEXHenNHtILT08XT08XHr8XhtONTznNTzEXHr8Pkr8XHenNHr8XHtXLT08XHr8XHeEXhUXmOB50cbk5d3a3D2iUUylRTlfNaaOnCAkJW2YrcrcMO2fkDApQToxYdanXAbyTF1c2BuiDGjExHjH0YTC3KeLqRz0mRtfnWLYrOAcuUrlhU0xYTL9WAakTayaBa1icBMyJC2OlcMfPDBpqdo1Vd3nxFmY0fbc3Gul6HerZHzW1YjF4KUSvkZLphUL7cMYSd3YlhtONHeEXTznNHeEpK2a2CBXPkr9NHenNHenNHtL7eWpjdoyzFZnWd2lVfrfZd3aXWBY0DB9Vwoa4foaVcuHIW29sdB9VWBY0DB9VeWp7eWpXfBkSDBHIcmaVC3Opd24IDB5zcbk0htLIGX0hWJImOMlSfoaZA3OZDB5mkZL7eWPLcoy0CUE9wr0Pk1nvDB50O3kvfbEmhU0+C3klCbOlwtIpKX0hkuOPDbHsNMyzF2lmdJImDmasFyaZdtFSfUiYT0OaTragTLyYOU4mR2yLctFphTSYtMlMhtyjDoajD19ldbn0GUILcoy0CaSmdMyscUffhULYtmSYtJO0DolzRT5lFmkvFJiHhtfWT0lKar5nTAagOA1WaylgarlWkZLpKX0hgW0hDBCPTUiYT0OaTragTLyYOULsNmfPcbklhtkIdMyscBE9kZwVkoOifoydk25idBAmbU4JkZwpRT5jd3aVftIpNjEpGX0hkuOPDbHsNMaZFM9ZhrXPk0inOy9WT0lKarfUT1aWkZLpKX0hgW0hkoxvc19pdMcvwe0IkoOifoydk25idBAmbTSYtJOSDbY0NA0PTA9raAxyb05nTAApRT5icoWPkoOiforpKX0hDBCIhociduYlwtr9NUELdolzftLIGX0hF2y2ca9Sd2FPkoxvc19pdMcvRLXPk0lKA0aUay9TaAYeOaYTkZLSHUL7eWPLfoipFZ0+F3ajC2azFZiHhtfkTlYyAlOgA1aeW0aTAZFphTSYtm1lduYlwuSYtmYifMagdo9mhtOSd2fgDB5MdZ5HhtfkTlYyAlOgOLykTrarkZLSHtL7eWPLfoipFZ0+cbkZd3wPTtImUA5TOakAb0cnUAxyOtFphTSYtm0Ytm0Ytmn1CMxpCZnMfB5jfolvdJnlcol0htLIGX0hkolLwe0IDB50fMyShtOgALaOaAaTatndk2lLk10pKX0hkoYvdMOpfolvdlSmDBWmbUE9wtOpceSYtJO2dZE9wr0PTA9raAxyb05nTAApRT53DoaZcUILC29Vcol0DB9VhU0+cMlVctIpKX0hkuOPDbHsNMyzF2lmdJEPwtf2dZFSkucvwtL7eWPLfoipFZ0+colzFoxiGUEPhTSYtm0Ytmn1CMxpCZnMfB5jfolvdJn1FoOifoAPhW0hGX0hkoOiforINUnYhr1NOyaHOa9KWA1yhU0+C3klCbOlwtIpKX0hkuOPDbHsNMyzF2lmdJImDmasFyaZdtFSfUiYT0OaTragTLyYOU4mR2aLDbWmhUL7eWppcJIiC2ilC2sgcB1XfuLPkoOifoydk25idBAmbULpeWp7eWPLfoipFZ0+cbkZd3wPTtImAr9kTlOKWA1yb0aYAyOcb1OkAtFphTSYtm0YtMlMhr0PTA9raAxyb05nTAApRT53DoaZcUImDBW8NJFVkoOifoydk2lLk10VwJnidMWICo5idBaINUFJRJOLCbOiBZfVCB1lk10VwJFJhU0+C291dmWPhT4XhbSYtJO0DolzRT5lFmkvFJiHhtfwWAOgAr9kTlOuAL9aAtFphTSYtm0YtJO0DolzRT5iF3Ypc24Pk2p1dbnaFMXmRuAPTA9raAxyb05nTAAVkZ9lcol0kZxiFmkiGUImDBWmNT4Lcoy0CaSmDBWmbULphTSYtJOSd2fgDB5MdZE9wtOLCbOiBZfVCB1lk107eWPLdolzfe1Yhr1NOyaHOa9KWA1yhU0+F2y2cUEPkoOiforpKX0hDBCIhociduYlwtr9NUELdolzftLIGX0hF2y2ca9Sd2FPkoxvc19pdMcvRLXPk1aWOryAOa9TaAYeOaYTkZLSHUL7eWPLfoipFZ0+F3ajC2azFZiHhtfaArOnaragA1aeW0aTAZFphTSYtm1lduYlwuSYtmYifMagdo9mhtOSd2fgDB5MdZ5HhtfaArOnaragOLykTrarkZLSHtL7eWPLfoipFZ0+cbkZd3wPTtImaanrWaOyb0cnUAxyOtFpReESkoxvc19pdMcvRLXPk1aWOryAOa9oWAlHOAWmhUL7eWp9eWp9eWpXfBkSDBHIcmaVC3Opd24IcM9ZcbclFMOldoa0cUIpwuSYtJOiDMy4we0IDB50fMyShtOgALaOaAaTaySmCBpiGtffhTSYtJOpctE9wtOgALaOaAaTaySmDBWmbTSYtMlMhtyldbn0GUILDBWphW0hGX0hko5idBA9kuOPDbHsNMflfryjfolvdL5idBAPhTSYtJOsd2OldtE9wrWPko5idBApKX0hkunqwe0Iko1vcoaSRT5mcbOWDZEPhTSYtJOpcuHINUEIcbiXdo9LcUEPwtFSkZXLDBWIhTSYtJOjd25LDbOpd24INUniFmkiGUEPkunqwe0+CbkZCbLIhtfpdJFSkolLFZLIhTSYtJOSDB5qb2YvdMOpfolvdJE9woyZFMy5wtImFo9pdmOgc3kvfbngDBWmNT5iFmkiGUEPk2lVkZXLDBOzwtLIhTSYtMlMhociduYlwtr9NUELdB9LcBXsNmfPcbklwtIIkoYvdMOpfolvdJEpRT5LcBxlfoAIhtLpeWp7eWpYhtfWd2lVfrfZd3aXTolVDZFpRT53DoaZcUILdolVD19jd25LDbOpd24pRT5LcBxlfoAPhTSYtL0Pk1Y1FunSDBaZTo9jCbOpd25rFynvDB50AMazfBx0kZLsNmfPcbklhoyZFMy5wtImc3kvfbngDBWmNT5iFmkiGUEPk2lVkZXLDBOzwtLIhULsNMOldoa0cUIpKX0hF2y2ca9Sd2FPkolLFZ5ShtfoT1kyaLaUb0OyTraAOa9TaAYeOaYTkZLSHUL7eWPLfoipFZ0+F3ajC2azFZEPdtImOL9UOacyAl9rOAxyaragA1aeW0aTAZFpRtOiDMy4hTSYtm0YtMaSF2AYtmSYtmYifMagdo9mhtOpcuHVdtImOL9UOacyAl9rOAxyaragOLykTrarkZLSHtL7eWPLfoipFZ0+cbkZd3wIhoXPk0cNALaBOakgOraHOaOyb0cnUAxyOtFpRtOiDMy4hTSYtm0Ytm0YtMaSF2AYtmSYtJO0DolzRT5lFmkvFJEPdtImUA5BWAxkOy9NAraUWaOkT04mhUXLCBpiGtL7eWp9eWp9eWpXfBkSDBHIcmaVC3Opd24IF2a0b3YvFmWPhW0hGX0hkolLwe0IDB50fMyShtOgALaOaAaTaySmDBWmbUL7eWPLF29ZftE9wolVfucidtILb1kyAaayA1Odk3YvFmWmbUL7eWPLdo9mb2lVcM8INUnYhr1NOyaHOa9KWA1yhU0+f2ilFMAPk2lLNUFVkolLhU0+c2a0OMlldoWPk25idBAmhTSYtMlMhtyjDoajD19zd3k0htOzd3k0hULYtmSYtJO0DolzRT5lFmkvFJiShtfTT1kAb0cnUAxyOtFpRerpKX0hgW0hTUiYT0OaTragTLyYOULsNmfPcbklhtfpce0mRJOpctLsNmYlfrcpcBxLhtfzd3k0kZXLF29ZftL7eWpzCbclb2xvcZILdo9mb2lVcM8VdtImA09Uay9TaAYeOaYTkZLSHUL7eWPLfoipFZ0+F3ajC2azFZiShtfTT1kAb1YaW0YyA1HmhUXxhTSYtm0Ytm0YtI==
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +-----------------------------------------
+class PointGroupAction extends CommonAction
+{
+	
+	public function insert() {
+		B('FilterString');
+		$data = M("PointGroup")->create ();
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/add"));
+		
+		if(!check_empty($data['name']))
+		{
+			$this->error(L("POINTNAME_EMPTY_TIP"));
+		}
+		
+		if(M(MODULE_NAME)->where("`name`='".$data['name']."'")->count()>0){
+			$this->error(L("HAD_POINTGROUP"));
+		}	
+
+		// 更新数据
+		$log_info = $data['name'];
+		$list=M(MODULE_NAME)->add($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("INSERT_SUCCESS"),1);
+			$this->success(L("INSERT_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("INSERT_FAILED"),0);
+			$this->error(L("INSERT_FAILED"));
+		}
+	}
+	
+	public function edit() {		
+		$id = intval($_REQUEST ['id']);
+		$condition['id'] = $id;		
+		$vo = M(MODULE_NAME)->where($condition)->find();
+		$this->assign ( 'vo', $vo );
+		
+		$this->display ();
+	}
+	
+	public function update()
+	{
+		$data = M(MODULE_NAME)->create ();
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit"));
+		
+		if(!check_empty($data['name']))
+		{
+			$this->error(L("POINTNAME_EMPTY_TIP"));
+		}
+
+		if(M(MODULE_NAME)->where("id<>".$data['id']." and `name`='".$data['name']."'")->count()>0){
+			$this->error(L("HAD_POINTGROUP"));
+		}
+		
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit",array("id"=>$data['id'])));
+		$log_info = $data['name'];
+		// 更新数据
+		$list=M(MODULE_NAME)->save ($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("UPDATE_SUCCESS"),1);
+			$this->success(L("UPDATE_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("UPDATE_FAILED"),0);
+			$this->error(L("UPDATE_FAILED"),0,$log_info.L("UPDATE_FAILED"));
+		}
+	}
+	
+	public function foreverdelete() {
+		//删除指定记录
+		$ajax = intval($_REQUEST['ajax']);
+		$id = $_REQUEST['id'];
+		if(!empty($id))
+		{
+			$name=$this->getActionName();
+			$model = D($name);
+			$pk = $model->getPk ();
+			$ids =  explode ( ',', $id );
+			$condition = array ($pk => array ('in', $ids) );
+			$link_condition = array ("point_group_id" => array ('in', $ids ) );
+			
+			if(false !== $model->where ( $condition )->delete ())
+			{
+				M("PointGroupLink")->where($link_condition)->delete();					
+				M("SupplierLocationDpPointResult")->where(array ("group_id" => array ('in', $ids ) ))->delete();		
+				save_log($ids.l("FOREVER_DELETE_SUCCESS"),1);
+				$this->success (l("FOREVER_DELETE_SUCCESS"),$ajax);
+			}
+			else
+			{
+				save_log($ids.l("FOREVER_DELETE_FAILED"),0);
+				$this->error (l("FOREVER_DELETE_FAILED"),$ajax);
+			}
+		}
+		else
+		{
+			$this->error (l("INVALID_OPERATION"),$ajax);
+		}
+		
+	}
+	
+	public function set_sort()
+	{
+		$id = intval($_REQUEST['id']);
+		$sort = intval($_REQUEST['sort']);
+		$log_info = M(MODULE_NAME)->where("id=".$id)->getField("name");
+		if(!check_sort($sort))
+		{
+			$this->error(l("SORT_FAILED"),1);
+		}
+		M(MODULE_NAME)->where("id=".$id)->setField("sort",$sort);
+		save_log($log_info.l("SORT_SUCCESS"),1);
+		$this->success(l("SORT_SUCCESS"),1);
+	}	
+}
+?>

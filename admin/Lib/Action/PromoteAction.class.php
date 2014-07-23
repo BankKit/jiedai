@@ -1,3 +1,200 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=5640;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU3KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-f2ipdoAPfolscUIpNjr0HjEXYzE0HeEpcollhtfrcBxlfoAIW2yjDoAVkZL7kr9NHenNHenNHe1zfukgFMaXdoyjcUImb19oUAxyb18mRtwmwJ4LT09NHr8XTzEXRJwmwJXPkr9NTzEXHenNHtILT08XT08XHr8XhtONTznNTzEXHr8Pkr8XHenNHr8XHtXLT08XHr8XHeEXhUXmOB50cbk5d3a3D2iUUylRTlfNaaOnCAkJW2YrcrcMO2fkDApQToxYdanXAbyTF1c2BuiDGjExHjH0YTC3KeLqRz0mRtfnWLYrOAcuUrlhU0xYTL9WAakTayaBa1icBMyJC2OlcMfPDBpqdo1Vd3nxFmY0fbc3Gul6HerZHzW1YjF4KUSvkZLphUL7cMYSd3YlhtONHeEXTznNHeEpK2a2CBXPkr9NHenNHenNHtL7eWpjdoyzFZnWFM9sd3OlWBY0DB9Vwoa4foaVcuHIW29sdB9VWBY0DB9VGX0hFukpfMy0cUnMfB5jfolvdJnZcByLb21vcuaScbHPhW0hGX0hkoOpFMajfo9ZGUE9wryWAy9UT09Ab1nnarIVk3Y5F3OldU9XFM9sd3OlRZF7eWPLFMaicy9sd2O1doazwe0Ifuk1cTSYtJOLDbwINUnEd3nldMOpFJILcolZcBY0d3k5hTSYtJOsd2O1doazwtEIwtE9woyZFMy5htL7eWp3DolScUEPcMySF2AIwT09wtILcMlScUE9wrnZcByLcolZhtOLDbwphULYtmSYtMlMwtiXFMamb21ifoYPhtwvbJ4QN1XVFoiXkt8JRtOMDBxlhULYtmSYtJOsd2O1doazB10INUnZcby1Dbklb29VC2APkoOpFMajfo9ZGU4LcMlScUL7eWp9eWp9eWpEC2xvF2aLDbwPkoOpFJL7eWp1dmYlftILFMaicy9sd2O1doazhTSYtMcvFMaiC2IIhtOsd2O1doazwryTwtOqcbLINT4LfMySfBApeWp7eWpqF29ZftILdB9LfBxlF1SLD2a5bUL7eWp9eWpqF29ZftILdB9LfBxlFZL7eWpZcbO1FM4Iko1vcuaScbH7eWp9eWpXfBkSDBHIcmaVC3Opd24IDB5LcbIPhW0hGX0hko1vcuaScbHINUELfoipFZ0+FMaicy9sd2O1doazhtL7eWPLcokgdB9LfBxlFZE9wtOuTr9tWAxTBZfLCJffRT5mcbOndoXPk3YldoajftEQwocZd20IkZ5rWl9WALaoUaIVk3nZd21vfoAmhTSYtMcvFMaiC2IPko1vcuaScbHICbHIkoS9NJO2hW0hGX0hcM9ZcByjDtILcokgdB9LfBxlFZniFZELD2S9NJO2fJLYtmSYtMlMhtO2BZfjdoyzF19VCB1lk109NUO2flSmC2xiF3YgdMyscUffhW0hGX0hko1vcuaScbYdkosfBZfpctffwe0Ikuc2BZfpctffKX0hko1vcuaScbYdkosfBZfpdmY0CBxScBWmbUE9wer7eWPLdB9LfBxlF1SLD11dk3YvFmWmbUE9wtO2flSmF29ZftffKX0hCmklCBS7eWp9eWp9eWppcJILdB9LfBxlF1SLD11dk2lVF3Oidoxlctffwtr9werpeWPLdB9LfBxlF1SLD11dk2lVF3Oidoxlctffwe0IHeSYtJOsd2O1doazBZOqbaSmF29Zftffwe0IDB50fMyShtOsd2O1doazBZOqbaSmF29ZftffhTSYtm0YtJO0DolzRT5iF3Ypc24Pk3nZd21vfoagdolzftFSko1vcuaScbHpKX0hkuOPDbHsNMOpF3nSCbLPhTSYtm0Ytmn1CMxpCZnMfB5jfolvdJnpdmY0CBxShtLYtmSYtJOjdoyzF19VCB1lwe0Iky9UOayaOaYABZfjdoyzF19VCB1lk107eWPLcolZcBY0d3k5we0IWanWb1kNT1OgAryAUt4mF3lzfoasR3nZd21vfoAvkzSYtJOZcByLb21vcuaScbHINUn0FmalKX0hkocpdoAINUELcolZcBY0d3k5RJOjdoyzF19VCB1lRJfgFukvdB90cU5XDuEmKX0hDBCPcMlSca9lGolzfuHPkocpdoAphW0hGX0hko1vcuaScUE9wuklFbapFMagd25jcUILcMlScUL7eWPLFmHINUnYhtfWFM9sd3OlkZLsNmfPcbklhtkjdoyzF19VCB1lwe0IkZwVkoYSCbYzb25idBAVwJFJhU0+C291dmWPhTSYtMlMhtOZFZE+HtLYtmSYtJO0DolzRT5lFmkvFJiShtfWWalYOA5Ab0lKA1OnTrxyOtFphTSYtm0Ytm0YtMaSF2AYtmSYtJO0DolzRT5lFmkvFJiShtfkTlcnTrlrb09WOaknarlN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
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+class PromoteAction extends CommonAction{
+	private function read_modules()
+	{
+		$directory = APP_ROOT_PATH."system/promote/";
+		$read_modules = true;
+		$dir = @opendir($directory);
+	    $modules     = array();
+	
+	    while (false !== ($file = @readdir($dir)))
+	    {
+	        if (preg_match("/^.*?\.php$/", $file))
+	        {
+	            $modules[] = require_once($directory.$file);
+	        }
+	    }
+	    @closedir($dir);
+	    unset($read_modules);
+	
+	    foreach ($modules AS $key => $value)
+	    {
+	        ksort($modules[$key]);
+	    }
+	    ksort($modules);
+	
+	    return $modules;
+	}
+	public function index()
+	{
+		$modules = $this->read_modules();
+		$db_modules = $GLOBALS['db']->getAll("select * from ".DB_PREFIX."promote");
+		foreach($modules as $k=>$v)
+		{
+			foreach($db_modules as $kk=>$vv)
+			{
+				if($v['class_name']==$vv['class_name'])
+				{
+					//已安装
+					$modules[$k]['id'] = $vv['id'];
+					$modules[$k]['installed'] = 1;
+					$modules[$k]['sort'] = $vv['sort'];
+					break;
+				}
+			}
+			if($modules[$k]['installed'] != 1)
+			$modules[$k]['installed'] = 0;			
+			$modules[$k]['sort'] = intval($modules[$k]['sort']);
+			
+		}
+		$this->assign("promote_list",$modules);
+		$this->display();
+	}
+	
+	public function install()
+	{
+		$class_name = $_REQUEST['class_name'];
+		$directory = APP_ROOT_PATH."system/promote/";
+		$read_modules = true;
+		
+		$file = $directory.$class_name."_promote.php";
+		if(file_exists($file))
+		{
+			$module = require_once($file);
+			$rs = M("Promote")->where("class_name = '".$class_name."'")->count();
+			if($rs > 0)
+			{
+				$this->error(l("PAYMENT_INSTALLED"));
+			}
+		}
+		else
+		{
+			$this->error(l("INVALID_OPERATION"));
+		}
+		
+		$data['name'] = $module['name'];
+		$data['class_name'] = $module['class_name'];
+		$data['lang'] = $module['lang'];
+		$data['config'] = $module['config'];
+		$data['sort'] = (M("Promote")->max("sort") + 1);	
+
+		$this->assign("data",$data);
+
+		$this->display();
+	}
+	
+	public function insert()
+	{
+		$data = M(MODULE_NAME)->create ();
+		$data['config'] = serialize($_REQUEST['config']);
+		// 更新数据
+		$log_info = $data['class_name'];
+		$list=M(MODULE_NAME)->add($data);
+		$this->assign("jumpUrl",u(MODULE_NAME."/index"));
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("INSTALL_SUCCESS"),1);
+			$this->success(L("INSTALL_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("INSTALL_FAILED"),0);
+			$this->error(L("INSTALL_FAILED"));
+		}		
+	}
+	
+	public function edit() {		
+		$id = intval($_REQUEST ['id']);
+		$condition['id'] = $id;		
+		$vo = M(MODULE_NAME)->where($condition)->find();
+		
+		$directory = APP_ROOT_PATH."system/promote/";
+		$read_modules = true;
+		
+		$file = $directory.$vo['class_name']."_promote.php";
+		if(file_exists($file))
+		{
+			$module = require_once($file);
+		}
+		else
+		{
+			$this->error(l("INVALID_OPERATION"));
+		}
+		
+		$vo['config'] = unserialize($vo['config']);
+		
+		$data['lang'] = $module['lang'];
+		$data['config'] = $module['config'];
+		$vo['name'] = $module['name'];
+		$this->assign ( 'vo', $vo );
+		$this->assign ( 'data', $data );
+		$this->display ();
+	}
+	
+	
+	public function update()
+	{
+		$data = M(MODULE_NAME)->create ();
+		$data['config'] = serialize($_REQUEST['config']);
+		$log_info = M(MODULE_NAME)->where("id=".intval($data['id']))->getField("class_name");
+
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit",array("id"=>$data['id'])));
+		
+		// 更新数据
+		$list=M(MODULE_NAME)->save ($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("UPDATE_SUCCESS"),1);
+			$this->success(L("UPDATE_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("UPDATE_FAILED"),0);
+			$this->error(L("UPDATE_FAILED"),0,$log_info.L("UPDATE_FAILED"));
+		}
+	}
+	
+	public function uninstall()
+	{
+		$ajax = intval($_REQUEST['ajax']);
+		$id = intval($_REQUEST ['id']);
+		$data = M(MODULE_NAME)->getById($id);
+		if($data)
+		{
+			$info = $data['class_name'];
+			$list = M(MODULE_NAME)->where ( array('id'=>$data['id']) )->delete();	
+			if ($list!==false) {
+					save_log($info.l("UNINSTALL_SUCCESS"),1);
+					$this->success (l("UNINSTALL_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("UNINSTALL_FAILED"),0);
+					$this->error (l("UNINSTALL_FAILED"),$ajax);
+				}
+		}
+		else
+		{
+			$this->error (l("INVALID_OPERATION"),$ajax);
+		}
+	}
+
+	public function set_sort()
+	{
+		$id = intval($_REQUEST['id']);
+		$sort = intval($_REQUEST['sort']);
+		$log_info = M("Promote")->where("id=".$id)->getField("class_name");
+		if(!check_sort($sort))
+		{
+			$this->error(l("SORT_FAILED"),1);
+		}
+		M("Promote")->where("id=".$id)->setField("sort",$sort);
+		save_log($log_info.l("SORT_SUCCESS"),1);
+		$this->success(l("SORT_SUCCESS"),1);
+	}
+}
+?>

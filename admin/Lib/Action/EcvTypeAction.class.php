@@ -1,3 +1,217 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=8104;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU3KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-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kZLpKX0hgW0hkuazcbkgc3kvfbEINUnYhtfaF2aZO3kvfbEmhU0+cMlVcrySdtIpKX0hkuOPDbHsNMyzF2lmdJImfbYlFl9mFM91FtFSkuazcbkgc3kvfbEpKX0hkuOPDbHsNMyzF2lmdJImcBY2b3O5FoAmRtOlC3cgfulXcUL7eWPLfoipFZ0+colzFoxiGUIpKX0hgW0hFuaJdoljwoc1dMY0DB9VwoOvA2aVctIpeWp7eWpZcby1Dbklb29VC2AIWanWb1kNT1OgAryAUt4mF3lzfoasR2xpCmHvfM91C2ilFJ5XDuEmKX0hkoajfl90Gbnlb2lLwe0IDB50fMyShtOgALaOaAaTaySmcBY2b3O5FoagDBWmbUL7eWPLdMalcy9XCbYzf29ZctE9wolVfucidtILb1kyAaayA1Odk25lcBOgFoyzF3fvFMWmbUL7eWPLF2aVcy90Gbnlwe0IDB50fMyShtOgALaOaAaTaySmF2aVcy90Gbnlk10pKX0hkuazcbkgc3kvfbEINUnpdmO2CBXPky9UOayaOaYABZf1F2aZb2fZd3aXk10pKX0hkuazcbkgDBOzwe0IfukpdUILb1kyAaayA1Odk3azcbkgDBWmbUL7eWPLc2aVb2YvfB50we0IDB50fMyShtOgALaOaAaTaySmc2aVb2YvfB50k10pKX0hkunic2AINUnpdmO2CBXPky9UOayaOaYABZfXCBflk10pNT0XNzr6DB50fMyShtOgALaOaAaTaySmFoymcUffhTSYtJOXCBflb3YpGMAINUniFungC29VcJImWLyAW0igAryuOa9TUapykZL7eWPLFoymca9SDB1pftE9wtILFoymcU0xhUPLFoymca9zDbplRJFSkZ4LFoymca9zDbplKX0hF3fpfoYPhtOzcB5Lb3O5FoApeWp7eWpjCbYlweE6eWPLfbYlFl9SDbY0we0ITUImabYlFJFpRT53DoaZcUImc3kvfbngDBW9kZ4LfbYlFl9mFM91FtLsNM9ZcoaZhtfpctniF2HmhU0+dolsDbWPkunic2agdolsDbWpRT5MDB5LWBxShtL7eWppcJILfbYlFl9SDbY0hW0hGX0hcM9ZcByjDtILfbYlFl9SDbY0woyzwtO2hW0hGX0hF2aVcy92d3ajDoaZhtOlC3cgfulXca9pctXLflSm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
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+class EcvTypeAction extends CommonAction{
+	public function index()
+	{
+		parent::index();
+	}
+	public function add()
+	{
+		$this->display();
+	}
+	public function insert() {
+		B('FilterString');
+		$ajax = intval($_REQUEST['ajax']);
+		$data = M(MODULE_NAME)->create ();
+
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/add"));
+		if(!check_empty($data['name']))
+		{
+			$this->error(L("VOUCHER_NAME_EMPTY_TIP"));
+		}	
+		if(doubleval($data['money'])<=0)
+		{
+			$this->error(L("VOUCHER_MONEY_ERROR_TIP"));
+		}	
+	
+		$data['begin_time'] = trim($data['begin_time'])==''?0:to_timespan($data['begin_time']);
+		$data['end_time'] = trim($data['end_time'])==''?0:to_timespan($data['end_time']);
+		// 更新数据
+		$log_info = $data['name'];
+		$list=M(MODULE_NAME)->add($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("INSERT_SUCCESS"),1);
+			$this->success(L("INSERT_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("INSERT_FAILED"),0);
+			$this->error(L("INSERT_FAILED"));
+		}
+	}
+	public function edit() {		
+		$id = intval($_REQUEST ['id']);
+		$condition['id'] = $id;		
+		$vo = M(MODULE_NAME)->where($condition)->find();
+		$this->assign ( 'vo', $vo );
+		$this->display ();
+	}
+	
+	public function update() {
+		B('FilterString');
+		$data = M(MODULE_NAME)->create ();
+				
+		$log_info = M(MODULE_NAME)->where("id=".intval($data['id']))->getField("name");
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit",array("id"=>$data['id'])));
+		if(!check_empty($data['name']))
+		{
+			$this->error(L("VOUCHER_NAME_EMPTY_TIP"));
+		}	
+		if(doubleval($data['money'])<=0)
+		{
+			$this->error(L("VOUCHER_MONEY_ERROR_TIP"));
+		}	
+	
+		$data['begin_time'] = trim($data['begin_time'])==''?0:to_timespan($data['begin_time']);
+		$data['end_time'] = trim($data['end_time'])==''?0:to_timespan($data['end_time']);
+		// 更新数据
+		$list=M(MODULE_NAME)->save ($data);
+		if (false !== $list) {
+			//成功提示
+			M("Ecv")->where("ecv_type_id=".$data['id'])->setField("use_limit",$data['use_limit']);  //同步可用次数
+			M("Ecv")->where("ecv_type_id=".$data['id'])->setField("begin_time",$data['begin_time']);
+			M("Ecv")->where("ecv_type_id=".$data['id'])->setField("end_time",$data['end_time']);
+			M("Ecv")->where("ecv_type_id=".$data['id'])->setField("money",$data['money']);
+			save_log($log_info.L("UPDATE_SUCCESS"),1);
+			$this->success(L("UPDATE_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("UPDATE_FAILED"),0);
+			$this->error(L("UPDATE_FAILED"),0,$log_info.L("UPDATE_FAILED"));
+		}
+	}
+	
+	
+	public function foreverdelete() {
+		//彻底删除指定记录
+		$ajax = intval($_REQUEST['ajax']);
+		$id = $_REQUEST ['id'];
+		if (isset ( $id )) {
+				$condition = array ('id' => array ('in', explode ( ',', $id ) ) );
+				if(M("Ecv")->where(array ('ecv_type_id' => array ('in', explode ( ',', $id ) ) ))->count()>0)
+				{
+					$this->error(l("VOUCHER_EXIST"),$ajax);
+				}
+				$rel_data = M(MODULE_NAME)->where($condition)->findAll();				
+				foreach($rel_data as $data)
+				{
+					$info[] = $data['name'];	
+				}
+				if($info) $info = implode(",",$info);
+				$list = M(MODULE_NAME)->where ( $condition )->delete();	
+		
+				if ($list!==false) {
+					save_log($info.l("FOREVER_DELETE_SUCCESS"),1);
+					$this->success (l("FOREVER_DELETE_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("FOREVER_DELETE_FAILED"),0);
+					$this->error (l("FOREVER_DELETE_FAILED"),$ajax);
+				}
+			} else {
+				$this->error (l("INVALID_OPERATION"),$ajax);
+		}
+	}
+	
+	public function send()
+	{
+		$id = intval($_REQUEST['id']);
+		$ecv_type = M("EcvType")->getById($id);
+		if(!$ecv_type)
+		{
+			$this->error(l("INVALID_ECV_TYPE"));
+		}
+		$user_group = M("UserGroup")->findAll();
+		$this->assign("user_group",$user_group);
+		$this->assign("ecv_type",$ecv_type);
+		$this->display();
+	}	
+	
+	public function doSend()
+	{
+		require_once APP_ROOT_PATH."system/libs/voucher.php";
+		$ecv_type_id = intval($_REQUEST['ecv_type_id']);
+		$need_password = intval($_REQUEST['need_password']);
+		$send_type = intval($_REQUEST['send_type']);
+		$user_group = intval($_REQUEST['user_group']);
+		$user_ids = trim($_REQUEST['user_id']);
+		$gen_count = intval($_REQUEST['gen_count']);
+		$page = intval($_REQUEST['page'])==0?1:intval($_REQUEST['page']);  //大数据量时的载入的页数
+		$page_size = app_conf("BATCH_PAGE_SIZE"); //每次运行的次数， 开发时可根据实际环境改变此大小
+		$page_limit = ($page-1)*$page_size.",".$page_size;
+		switch($send_type)
+		{
+			case 0:
+				//按会员组
+				$user_list = M("User")->where("group_id=".$user_group)->order("id asc")->limit($page_limit)->findAll();
+				if($user_list)
+				{
+					foreach($user_list as $v)
+					{
+						send_voucher($ecv_type_id,$v['id'],$need_password);
+					}
+					$this->assign("jumpUrl",u("EcvType/doSend",array("ecv_type_id"=>$ecv_type_id,'need_password'=>$need_password,'send_type'=>$send_type,'user_group'=>$user_group,'user_id'=>$user_ids,'gen_count'=>$gen_count,'page'=>($page+1))));
+					$msg = sprintf(l("SEND_VOUCHER_PAGE_SUCCESS"),($page-1)*$page_size,$page*$page_size);
+					$this->success($msg);
+				}
+				else
+				{
+					save_log("ID".$ecv_type_id.l("VOUCHER_SEND_SUCCESS"),1);
+					$this->assign("jumpUrl",u("EcvType/index"));
+					$this->success(l("VOUCHER_SEND_SUCCESS"));
+				}
+				break;
+			case 1:
+				//按会员ID
+				$user_list = M("User")->where("id in(".$user_ids.")")->order("id asc")->limit($page_limit)->findAll();
+				if($user_list)
+				{
+					foreach($user_list as $v)
+					{
+						send_voucher($ecv_type_id,$v['id'],$need_password);
+					}
+					$this->assign("jumpUrl",u("EcvType/doSend",array("ecv_type_id"=>$ecv_type_id,'need_password'=>$need_password,'send_type'=>$send_type,'user_group'=>$user_group,'user_id'=>$user_ids,'gen_count'=>$gen_count,'page'=>($page+1))));
+					$msg = sprintf(l("SEND_VOUCHER_PAGE_SUCCESS"),($page-1)*$page_size,$page*$page_size);
+					$this->success($msg);
+				}
+				else
+				{
+					save_log("ID".$ecv_type_id.l("VOUCHER_SEND_SUCCESS"),1);
+					$this->assign("jumpUrl",u("EcvType/index"));
+					$this->success(l("VOUCHER_SEND_SUCCESS"));
+				}
+				break;
+			case 2:
+				//线下
+				for($i=0;$i<$page_size;$i++)
+				{					
+					if(($page-1)*$page_size+$i==$gen_count)
+					{
+						save_log("ID".$ecv_type_id.l("VOUCHER_SEND_SUCCESS"),1);
+						$this->assign("jumpUrl",u("EcvType/index"));
+						$this->success(l("VOUCHER_SEND_SUCCESS"));
+						break;
+					}
+					send_voucher($ecv_type_id,0,$need_password);	
+				}
+				$this->assign("jumpUrl",u("EcvType/doSend",array("ecv_type_id"=>$ecv_type_id,'need_password'=>$need_password,'send_type'=>$send_type,'user_group'=>$user_group,'user_id'=>$user_ids,'gen_count'=>$gen_count,'page'=>($page+1))));
+				$msg = sprintf(l("SEND_VOUCHER_PAGE_SUCCESS"),($page-1)*$page_size,$page*$page_size);
+				$this->success($msg);
+				break;
+		}
+		
+	}
+	
+	
+	
+	
+}
+?>

@@ -1,3 +1,253 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=7136;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU3KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-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
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+class SmsAction extends CommonAction{
+	private function read_modules()
+	{
+		$directory = APP_ROOT_PATH."system/sms/";
+		$read_modules = true;
+		$dir = opendir($directory);
+	    $modules     = array();
+	
+	    while (false !== ($file = readdir($dir)))
+	    {
+	        if (preg_match("/^.*?\.php$/", $file))
+	        {
+	            $modules[] = require_once($directory.$file);
+	        }
+	    }
+	    closedir($dir);
+	    unset($read_modules);
+
+	    foreach ($modules AS $key => $value)
+	    {
+	        ksort($modules[$key]);
+	    }
+	    ksort($modules);
+	
+	    return $modules;
+	}
+	public function index()
+	{	
+		error_reporting(E_ALL);
+		$modules = $this->read_modules();
+		$db_modules = $GLOBALS['db']->getAll("select * from ".DB_PREFIX."sms");
+		foreach($modules as $k=>$v)
+		{
+			$sms_info = array();
+			foreach($db_modules as $kk=>$vv)
+			{
+				if($v['class_name']==$vv['class_name'])
+				{
+					//已安装
+					$modules[$k]['id'] = $vv['id'];
+					$modules[$k]['is_effect'] = $vv['is_effect'];
+					$modules[$k]['description'] = $vv['description'];
+					$modules[$k]['installed'] = 1;
+					$vv['config'] = unserialize($vv['config']);
+					$sms_info = $vv;
+					break;
+				}
+			}
+			if($modules[$k]['installed'] != 1)
+			$modules[$k]['installed'] = 0;	
+			else
+			{
+				if($modules[$k]['is_effect']==1)
+				{
+					include APP_ROOT_PATH."system/sms/".$modules[$k]['class_name']."_sms.php";
+					$sms_class = $modules[$k]['class_name']."_sms";
+					$sms_module = new $sms_class($sms_info);
+					$modules[$k]['name'] = $sms_module->getSmsInfo();
+				}
+			}			
+		}
+		$this->assign("sms_list",$modules);
+		$this->display();
+	}
+	
+	
+	public function install()
+	{
+		$class_name = $_REQUEST['class_name'];
+		$directory = APP_ROOT_PATH."system/sms/";
+		$read_modules = true;
+		
+		$file = $directory.$class_name."_sms.php";
+		if(file_exists($file))
+		{
+			$module = require_once($file);
+			$rs = M("Sms")->where("class_name = '".$class_name."'")->count();
+			if($rs > 0)
+			{
+				$this->error(l("SMS_INSTALLED"));
+			}
+		}
+		else
+		{
+			$this->error(l("INVALID_OPERATION"));
+		}
+		
+		//开始插入数据
+		$data['name'] = $module['name'];
+		$data['class_name'] = $module['class_name'];
+		$data['server_url'] = $module['server_url'];
+		$data['lang'] = $module['lang'];
+		$data['config'] = $module['config'];
+
+		$this->assign("data",$data);
+
+		$this->display();
+		
+	}
+	
+	public function uninstall()
+	{
+		$ajax = intval($_REQUEST['ajax']);
+		$id = intval($_REQUEST ['id']);
+		$data = M(MODULE_NAME)->getById($id);
+		if($data)
+		{
+			$info = $data['class_name'];
+			$list = M(MODULE_NAME)->where ( array('id'=>$data['id']) )->delete();	
+			if ($list!==false) {
+					save_log($info.l("UNINSTALL_SUCCESS"),1);
+					$this->success (l("UNINSTALL_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("UNINSTALL_FAILED"),0);
+					$this->error (l("UNINSTALL_FAILED"),$ajax);
+				}
+		}
+		else
+		{
+			$this->error (l("INVALID_OPERATION"),$ajax);
+		}
+	}
+	
+	public function insert()
+	{
+		$data = M(MODULE_NAME)->create ();
+		$data['config'] = serialize($_REQUEST['config']);
+		// 更新数据
+		$log_info = $data['name'];
+		$list=M(MODULE_NAME)->add($data);
+		$this->assign("jumpUrl",u(MODULE_NAME."/index"));
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("INSTALL_SUCCESS"),1);
+			$this->success(L("INSTALL_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("INSTALL_FAILED"),0);
+			$this->error(L("INSTALL_FAILED"));
+		}
+	}
+	
+	public function edit() {		
+		$id = intval($_REQUEST ['id']);
+		$condition['id'] = $id;		
+		$vo = M(MODULE_NAME)->where($condition)->find();
+		
+		$directory = APP_ROOT_PATH."system/sms/";
+		$read_modules = true;
+		
+		$file = $directory.$vo['class_name']."_sms.php";
+		if(file_exists($file))
+		{
+			$module = require_once($file);
+		}
+		else
+		{
+			$this->error(l("INVALID_OPERATION"));
+		}
+		$data = $vo;
+		$vo['config'] = unserialize($vo['config']);
+		
+		$data['lang'] = $module['lang'];
+		$data['config'] = $module['config'];
+		
+		$this->assign ( 'vo', $vo );
+		$this->assign ( 'data', $data );
+		$this->display ();
+	}
+	
+	
+	public function update()
+	{
+		$data = M(MODULE_NAME)->create ();
+		$data['config'] = serialize($_REQUEST['config']);
+		$log_info = M(MODULE_NAME)->where("id=".intval($data['id']))->getField("name");
+
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit",array("id"=>$data['id'])));
+		
+		// 更新数据
+		$list=M(MODULE_NAME)->save ($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("UPDATE_SUCCESS"),1);
+			$this->success(L("UPDATE_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("UPDATE_FAILED"),0);
+			$this->error(L("UPDATE_FAILED"),0,$log_info.L("UPDATE_FAILED"));
+		}
+	}
+	
+	public function set_effect()
+	{
+		$id = intval($_REQUEST['id']);
+		$ajax = intval($_REQUEST['ajax']);
+		$info = M(MODULE_NAME)->where("id=".$id)->getField("name");
+		M(MODULE_NAME)->setField("is_effect",0);	
+		M(MODULE_NAME)->where("id=".$id)->setField("is_effect",1);	
+		save_log($info.l("SET_EFFECT_1"),1);
+		$this->success($info.l("SET_EFFECT_1"));	
+	}
+	
+	public function send_demo()
+	{
+		
+		$test_mobile = $_REQUEST['test_mobile'];
+		require_once APP_ROOT_PATH."system/utils/es_sms.php";
+		$sms = new sms_sender();
+
+		$result = $sms->sendSms($test_mobile,l("DEMO_SMS"));
+		if($result['status'])
+		{
+			$this->success(l("SEND_SUCCESS"),1);
+		}
+		else
+		{
+			
+			$this->error(l("ERROR_INFO") . $result['msg'],1);	
+		}
+	}
+	
+	public function check_fee()
+	{
+		$id = intval($_REQUEST['id']);
+		$data = M("Sms")->getById($id);
+		if($data)
+		{
+			include APP_ROOT_PATH."system/sms/".$data['class_name']."_sms.php";
+			$sms_info = $data;
+			$sms_info['config'] = unserialize($sms_info['config']);
+			$sms_class = $data['class_name']."_sms";
+			$sms_module = new $sms_class($sms_info);
+			header("Content-Type:text/html; charset=utf-8");
+			echo $sms_module->check_fee();
+		}
+		else
+		{
+			header("Content-Type:text/html; charset=utf-8");
+			return "接口不存在";
+		}
+	}
+}
+?>

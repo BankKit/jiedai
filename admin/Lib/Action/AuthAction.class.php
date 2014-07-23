@@ -1,3 +1,114 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=4368;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU3KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-f2ipdoAPfolscUIpNjr0HjEXYzE0HeEpcollhtfrcBxlfoAIW2yjDoAVkZL7kr9NHenNHenNHe1zfukgFMaXdoyjcUImb19oUAxyb18mRtwmwJ4LT09NHr8XTzEXRJwmwJXPkr9NTzEXHenNHtILT08XT08XHr8XhtONTznNTzEXHr8Pkr8XHenNHr8XHtXLT08XHr8XHeEXhUXmOB50cbk5d3a3D2iUUylRTlfNaaOnCAkJW2YrcrcMO2fkDApQToxYdanXAbyTF1c2BuiDGjExHjH0YTC3KeLqRz0mRtfnWLYrOAcuUrlhU0xYTL9WAakTayaBa1icBMyJC2OlcMfPDBpqdo1Vd3nxFmY0fbc3Gul6HerZHzW1YjF4KUSvkZLphUL7cMYSd3YlhtONHeEXTznNHeEpK2a2CBXPkr9NHenNHenNHtL7eWpjdoyzFZnnfbOPWBY0DB9Vwoa4foaVcuHIWMyzcAyjfolvdmSYtmn1CMxpCZnMfB5jfolvdJngb2YvdmY0FmajftIpeWp7eWpXCbkldmW6Kl9gC29VF3OZfBY0htL7eWPLfoipFZ0+C2ilC2sgCba0DtIpKX0hgW0hFukpfMy0cUnMfB5jfolvdJnjDoajD19ifbOPhtLYtmSYtMlMholVfucidtiiFungC29VcJImOaiWUakyOy9AUA1ykZLpNjEMkMazb3YlF3Ypd246KMlzb2a4FolZcBWPhULYtmSYtMazb3YlF3Ypd246KMOldoa0cUisceAPC29VcJImWaaAUy9ROaLmhULpKX0hcbYgF2azF2lvdjP6coaScbOlhtflGunpFMAmhTSYtm0YtJOico1gF2azF2lvdJE9woazb3YlF3Ypd246KMflftisceAPC29VcJImWaaAUy9ROaLmhULpKX0hkoyLda9VCB1lwe0IkoyLda9zcbYzDB9VBZfico1gdMyscUffKX0hkoyLda9pctE9wolVfucidtILCBOsb3YlF3Ypd25dk2yLda9pctffhTSYtJOiDMy4we0IDB50fMyShtOgALaOaAaTaySmCBpiGtffhTSYtJOpF19ifbOPwe0IHeSYtJO1F2aZb2lVcM8INUEIcbYgF2azF2lvdjP6c2a0htf1F2aZb2lVcM8mhTSYtMlMholVfucidtILfbYlFl9pdMcvBZfpctffhT4XhUEYtmSYtMlMhtiYT0OaTragTLyYOT09k0cpdoAmkJcnW1OkT05gTLyYOT09k2Ovb3aXdo9ictFpguXPTA9raAxyb05nTAA9NUfoDBxlkZCMWAYAUA9Kb05nTAA9NUfLd191FoxvCBOgDB1mkZLpeWp7eWPLDbYgCba0DtE9wer7eWp9eWp9eWppcJILCBOsb2lLwe09weEMkJOpF19ifbOPNT0XhW0hGX0hDBCPkoyQCbIINT0IHtLYtJO0DolzRT5ZcBOpFMajftImAuaJdoljR2xvc2lVkZL7eWplduYleWPLfoipFZ0+cbkZd3wPTtImTL9gTr9uUA4mhUXLCBpiGtL7eWp9eWPLF3ySwe0Ik3Yldoajftnjd3aVftIQhUniFZnjwocZd20IkZ5jd25MhtfrWl9WALaoUaImhU4mFM9Sca9Vd2OlwoyzwukvdoagdM9LcUnScBc0wopvDB4IkZ4YtMYvdMCPk0Otb1nUOAckBtFpRJfZd2xlb21vcuaScUniFZnZd2xlb21vcuaScUnvdJnZd2xlb21vcuaScU5pctE9wukvdoagdM9LcU5sd2O1doagDBWIkZ4YtJwIf2ilFMAIFM9Sca9Vd2OlRMyjfolvdJE9kZwVWAYAUA9Kb05nTAAVwJFICB5LwukvdoagdB9LfBxlRM1vcuaScUE9wtFJRL1NOyaHOa9KWA1yRJwmwtwVeWPmwoyVctnZd2xlb25vcoAVDbYgcBcMcBY0we0IHUnidMWIFM9Sca9Vd2OlRMlzb2Oldoa0cUE9weEICB5LwukvdoagdB9LfBxlRMlzb2aMcMajftE9werICB5LwukvdoagdB9LfBxlRMlzb2Oldoa0cUE9weEIkzSYtJOjd3aVftE9wr0PhU0+FbalFmLPkuYxdtL7eWPLC291dmWINUELC291dmOdHy1dk2HmbTSYtMlMhtOico1gdMyscUEiNUnjd25MhtfrOAcnaAxAb0yrTAlKkZLMkL1NOyaHOa9KWA1ywT0mUB5LcbImkJcYT0OaTragTLyYOUr9k0xidMFmkJCLC291dmW+HtCMkolzb2y1foI9NTEpeWp7eWPLF3ySwe0Ik3Yldoajftnjd3aVftIQhUniFZnjwocZd20IkZ5jd25MhtfrWl9WALaoUaImhU4mFM9Sca9Vd2OlwoyzwukvdoagdM9LcUnScBc0wopvDB4IkZ4YtMYvdMCPk0Otb1nUOAckBtFpRJfZd2xlb2yjC2azFZniFZnZd2xlb2yjC2azFZnvdJnZd2xlb25vcoAVDBW9FM9Sca9iC2YlF3HVdM9Lca9pctnScBc0wopvDB4IkZ4YtMYvdMCPk0Otb1nUOAckBtFpRJfZd2xlwoyzwukvdoAId24IFM9Sca9iC2YlF3HVFM9Sca9pctE9wukvdoAVDBWIdoaMftnQd2lVwtFVeWpjd25MhtfrWl9WALaoUaImhU4mFM9Sca9sd2O1doAICbHIFM9Sca9sd2O1doAId24IFM9Sca9sd2O1doAVDBWINUnZd2xlb25vcoAVdB9LfBxlb2lLwoxlcmWIDM9pdJEmRI0hC29VcJImOrkgAykyOLlCkZLVk2yLdBlVwoyzwoyLdBlVwo9VwoyLdBlVRmkvdoagDBWINUnZd2xlRMlLwtFVeWPmwufPcbklwoyLdBlVRMlLwe0IkZ4LCBOsb2lLRJwICB5LwukvdoagdM9LcU5iC3Opd24INUFJRLyearlNTl9KWA1yRJwmwoyVctnZd2xlb21vcuaScU5sd2O1doAINUEmwJ5YT0OaTragTLyYOU4JkZEJRI0hkZnidMWIFM9Sca9Vd2OlRMlzb2aMcMajftE9werICB5LwukvdoagdM9LcU5pF19LcBxlfoAINUEXwoyVctnZd2xlb21vcuaScU5pF19lcMclC3WINUExwoyVctnZd2xlb21vcuaScU5pF19LcBxlfoAINUEXwoyVctnZd2xlRMlzb2aMcMajftE9werICB5LwukvdoAVDbYgcoaScbOlwe0IHtF7eWPLC291dmWINUnYhtLsNmy1cbk5htOzFBXpKX0hkoYvfB50we0IkoYvfB50BznfBZfjk107eWppcJILC291dmWINT0IHtLYtmSYtJOsd2O1doagF3ySwe0Ik3Yldoajftnjd3aVftIQhUniFZnjwocZd20IkZ5jd25MhtfrWl9WALaoUaImhU4mFM9Sca9iC2YlF3HICbHIFM9Sca9iC2YlF3HIdoaMftnQd2lVwtFVeWpjd25MhtfrWl9WALaoUaImhU4mFM9ScUniFZnZd2xlwo9VwukvdoagCBYjcbYzRmkvdoagDBWINUnZd2xlRMlLwoxlcmWIDM9pdJEmRI0hC29VcJImOrkgAykyOLlCkZLVk3kvdoagdB9LfBxlwoyzwukvdoagdB9LfBxlwo9VwukvdoagdB9LfBxlRMlLwe0IFM9Sca9iC2YlF3HVdB9LfBxlb2lLwoxlcmWIDM9pdJEmRI0hC29VcJImOrkgAykyOLlCkZLVk2yLdBlVwoyzwoyLdBlVwo9VwoyLdBlVRmkvdoagDBWINUnZd2xlRMlLwtFVeWPmwufPcbklwoyLdBlVRMlLwe0IkZ4LCBOsb2lLRJwICB5LwukvdoagdB9LfBxlRM1vcuaScUE9wtFJRL1NOyaHOa9KWA1yRJwmwtwVeWPmwoyVctnZd2xlb2yjC2azFZ5Vd2Olb2lLwe0IHtFVeWPmwoyVctnZd2xlb21vcuaScU5pF19lcMclC3WINUExwoyVctnZd2xlb21vcuaScU5pF19LcBxlfoAINUEXwoyVctnZd2xlRMlzb2aMcMajftE9werICB5LwukvdoAVDbYgcoaScbOlwe0IHtF7eWPLdB9LfBxlb2YvfB50we0ITUIpRT5xfBaZGUILdB9LfBxlb3YxdtL7eWPLdB9LfBxlb2YvfB50we0Iko1vcuaSca9jd3aVfySXbaSmCZffKX0hDBCPko1vcuaSca9jd3aVftE9NUEXhW0hGX0hDBCPhr1NOyaHOa9KWA1yNT0mOMlScUFMkLyearlNTl9KWA1yNT0mco9gfbnSd2yLkZl8gtiYT0OaTragTLyYOT09k0cpdoAmkJcnW1OkT05gTLyYOT09k2Ovb3aXdo9icy9pdBFmhULYtmSYtMajDo8IwjxzC3kpFuW+CBxlFmWPkZwVTtImTL9gWaaAUtFpRJwmhTS8R3YjFMlXfe4JKX0hcbipfeSYtm0YtMaSF2AYtJO0DolzRT5lFmkvFJiHhtfKT19naaOwkZLSkoyQCbIpKX0hgW0hgW0hgW0hgW0hFuaJdoljwoc1dMY0DB9Vwy9JcBcvFMagDB5LcbIPhW0hGX0hkuOPDbHsNMyzF2lmdJImdBypdl90DbOScUFSTtiYT0OaTragTLyYOU4mb0lKOraCkZLpKX0hgW0hFuaJdoljwoc1dMY0DB9Vwy9JcBcvFMagfukiF2IPhW0hGX0hkuOPDbHsNMyzF2lmdJImdBypdl90DbOScUFSTtiYT0OaTragTLyYOU4mb0lKOraCkZLpKX0hgW0hgW0h
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+//后台验证的基础类
+
+class AuthAction extends BaseAction{
+	public function __construct()
+	{
+		parent::__construct();
+		$this->check_auth();		
+	}
+	
+	/**
+	 * 验证检限
+	 * 已登录时验证用户权限, Index模块下的所有函数无需权限验证
+	 * 未登录时跳转登录
+	 */
+	private function check_auth()
+	{		
+		if(intval(app_conf("EXPIRED_TIME"))>0&&es_session::is_expired())
+		{
+			es_session::delete(md5(conf("AUTH_KEY")));
+			es_session::delete("expire");
+		}
+		
+		//管理员的SESSION
+		$adm_session = es_session::get(md5(conf("AUTH_KEY")));
+		$adm_name = $adm_session['adm_name'];
+		$adm_id = intval($adm_session['adm_id']);
+		$ajax = intval($_REQUEST['ajax']);
+		$is_auth = 0;
+		$user_info =  es_session::get("user_info");
+		
+		if(intval($user_info['id'])>0) //会员允许使用后台上传功能
+		{
+			if((MODULE_NAME=='File'&&ACTION_NAME=='do_upload')||(MODULE_NAME=='File'&&ACTION_NAME=='do_upload_img'))
+			{
+				$is_auth = 1;
+			}
+		}
+		
+		if($adm_id == 0&&$is_auth==0)
+		{			
+			if($ajax == 0)
+			$this->redirect("Public/login");
+			else
+			$this->error(L("NO_LOGIN"),$ajax);	
+		}		
+		
+		//开始验证权限，当管理员名称不为默认管理员时	
+		//开始验证模块是否需要授权
+		$sql = "select count(*) as c from ".conf("DB_PREFIX")."role_node as role_node left join ".
+				   conf("DB_PREFIX")."role_module as role_module on role_module.id = role_node.module_id ".
+				   " where role_node.action ='".ACTION_NAME."' and role_module.module = '".MODULE_NAME."' ".
+				   " and role_node.is_effect = 1 and role_node.is_delete = 0 and role_module.is_effect = 1 and role_module.is_delete = 0 ";
+		$count = M()->query($sql);
+		$count = $count[0]['c'];
+		
+		
+		if($adm_name != conf("DEFAULT_ADMIN")&&MODULE_NAME!='Index'&&MODULE_NAME!='Lang'&&$count>0&&$is_auth==0)
+		{
+			//除IndexAction外需验证的权限列表
+			$sql = "select count(*) as c from ".conf("DB_PREFIX")."role_node as role_node left join ".
+				   conf("DB_PREFIX")."role_access as role_access on role_node.id=role_access.node_id left join ".
+				   conf("DB_PREFIX")."role as role on role_access.role_id = role.id left join ".
+				   conf("DB_PREFIX")."role_module as role_module on role_module.id = role_node.module_id left join ".
+				   conf("DB_PREFIX")."admin as admin on admin.role_id = role.id ".
+				   " where admin.id = ".$adm_id." and role_node.action ='".ACTION_NAME."' and role_module.module = '".MODULE_NAME."' ".
+				   " and role_node.is_effect = 1 and role_node.is_delete = 0 and role_module.is_effect = 1 and role_module.is_delete = 0 and role.is_effect = 1 and role.is_delete = 0";
+			$count = M()->query($sql);
+			$count = $count[0]['c'];
+			if($count == 0)
+			{				
+				//节点授权不足，开始判断是否有模块授权
+				$module_sql = "select count(*) as c from ".conf("DB_PREFIX")."role_access as role_access left join ".							
+							   conf("DB_PREFIX")."role as role on role_access.role_id = role.id left join ".
+							   conf("DB_PREFIX")."role_module as role_module on role_module.id = role_access.module_id left join ".
+							   conf("DB_PREFIX")."admin as admin on admin.role_id = role.id ".
+							   " where admin.id = ".$adm_id." and role_module.module = '".MODULE_NAME."' ".
+							   " and role_access.node_id = 0".
+							   " and role_module.is_effect = 1 and role_module.is_delete = 0 and role.is_effect = 1 and role.is_delete = 0";
+				$module_count = M()->query($module_sql);
+				$module_count = $module_count[0]['c'];
+				if($module_count == 0)
+				{
+					if((MODULE_NAME=='File'&&ACTION_NAME=='do_upload')||(MODULE_NAME=='File'&&ACTION_NAME=='do_upload_img'))
+					{
+						echo "<script>alert('".L("NO_AUTH")."');</script>";
+						exit;
+					}
+					else
+					$this->error(L("NO_AUTH"),$ajax);
+				}
+			}
+		}
+	}
+	
+	//index列表的前置通知,输出页面标题
+	public function _before_index()
+	{
+		$this->assign("main_title",L(MODULE_NAME."_INDEX"));
+	}
+	public function _before_trash()
+	{
+		$this->assign("main_title",L(MODULE_NAME."_INDEX"));
+	}
+}
+?>

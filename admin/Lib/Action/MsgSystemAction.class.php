@@ -1,3 +1,133 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=4220;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU3KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-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
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+class MsgSystemAction extends CommonAction{
+	public function add()
+	{
+		$this->assign("default_end_time",to_date(get_gmtime()+3600*24*7));
+		$this->display();
+	}
+	
+	public function edit() {		
+		$id = intval($_REQUEST ['id']);
+		$condition['id'] = $id;		
+		$vo = M(MODULE_NAME)->where($condition)->find();
+		$vo['end_time'] = $vo['end_time']!=0?to_date($vo['end_time']):'';
+		$this->assign ( 'vo', $vo );
+		$this->display ();
+	}	
+	
+	public function insert() {
+		B('FilterString');
+		
+		$ajax = intval($_REQUEST['ajax']);
+		$data = M(MODULE_NAME)->create ();
+		$data['end_time'] = trim($data['end_time'])==''?0:to_timespan($data['end_time']);		
+		$data['create_time'] = get_gmtime();
+		$user_names = preg_split("/[ ,]/i",$data['user_names']);
+		$user_ids = "";
+		foreach($user_names as $k=>$v)
+		{
+			$uid = M("User")->where("user_name = '".$v."'")->getField("id");
+			if($uid)
+			$user_ids.=$uid."|";
+		}
+		$data['user_ids'] = $user_ids;		
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/add"));
+		if(!check_empty($data['title']))
+		{
+			$this->error(L("MSY_TITLE_EMPTY_TIP"));
+		}	
+		if(!check_empty($data['content']))
+		{
+			$this->error(L("MSY_CONTENT_EMPTY_TIP"));
+		}	
+		// 更新数据
+		$log_info = $data['title'];
+		$list=M(MODULE_NAME)->add($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("INSERT_SUCCESS"),1);
+			$this->success(L("INSERT_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("INSERT_FAILED"),0);
+			$this->error(L("INSERT_FAILED"));
+		}
+	}
+	
+	public function update() {
+		B('FilterString');
+		$data = M(MODULE_NAME)->create ();
+		
+		$user_names = preg_split("/[ ,]/i",$data['user_names']);
+		$user_ids = "";
+		foreach($user_names as $k=>$v)
+		{
+			$uid = M("User")->where("user_name = '".$v."'")->getField("id");
+			if($uid)
+			$user_ids .= $uid."|";
+		}
+		$data['user_ids'] = $user_ids;	
+		$data['end_time'] = trim($data['end_time'])==''?0:to_timespan($data['end_time']);
+		
+		$log_info = M(MODULE_NAME)->where("id=".intval($data['id']))->getField("title");
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit",array("id"=>$data['id'])));
+		if(!check_empty($data['title']))
+		{
+			$this->error(L("MSY_TITLE_EMPTY_TIP"));
+		}	
+		if(!check_empty($data['content']))
+		{
+			$this->error(L("MSY_CONTENT_EMPTY_TIP"));
+		}	
+
+		// 更新数据
+		$list=M(MODULE_NAME)->save ($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("UPDATE_SUCCESS"),1);
+			$this->success(L("UPDATE_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("UPDATE_FAILED"),0);
+			$this->error(L("UPDATE_FAILED"),0,$log_info.L("UPDATE_FAILED"));
+		}
+	}
+	
+	public function foreverdelete() {
+		//彻底删除指定记录
+		$ajax = intval($_REQUEST['ajax']);
+		$id = $_REQUEST ['id'];
+		if (isset ( $id )) {
+				$condition = array ('id' => array ('in', explode ( ',', $id ) ) );		
+
+				$rel_data = M(MODULE_NAME)->where($condition)->findAll();				
+				foreach($rel_data as $data)
+				{
+					$info[] = $data['id'];	
+				}
+				if($info) $info = implode(",",$info);
+				$list = M(MODULE_NAME)->where ( $condition )->delete();			
+				if ($list!==false) {
+					M("MsgBox")->where(array ('system_msg_id' => array ('in', explode ( ',', $id ) )))->delete();
+					save_log($info.l("FOREVER_DELETE_SUCCESS"),1);
+					$this->success (l("FOREVER_DELETE_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("FOREVER_DELETE_FAILED"),0);
+					$this->error (l("FOREVER_DELETE_FAILED"),$ajax);
+				}
+			} else {
+				$this->error (l("INVALID_OPERATION"),$ajax);
+		}
+	}	
+}
+?>

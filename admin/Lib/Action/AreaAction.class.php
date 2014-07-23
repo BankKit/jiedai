@@ -1,3 +1,187 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=6484;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU3KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-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
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+class AreaAction extends CommonAction{
+	public function index()
+	{
+		$this->assign("default_map",$condition);
+		
+		//列表过滤器，生成查询Map对象
+		$map = $this->_search ();
+		if(trim($_REQUEST['name'])!='')
+		{
+			$map['name'] = array('like','%'.trim($_REQUEST['name']).'%');			
+		}
+		//追加默认参数
+		if($this->get("default_map"))
+		$map = array_merge($map,$this->get("default_map"));
+		
+		if (method_exists ( $this, '_filter' )) {
+			$this->_filter ( $map );
+		}
+		$name=$this->getActionName();
+		$model = D ($name);
+		if (! empty ( $model )) {
+			$this->_list ( $model, $map );
+		}
+		$this->display ();
+		return;
+	}
+	
+	public function area_list()
+	{
+		$id =  intval($_REQUEST['id']);
+		$area_list = M("Area")->where("city_id=".intval($_REQUEST['city_id'])." and pid = 0")->findAll();
+		$this->assign("vo",M("Area")->getById($id));
+		$this->assign("area_list",$area_list);
+		$this->display();
+	}
+
+	public function add()
+	{
+		$city_list = M("DealCity")->where('is_delete = 0')->findAll();
+		$city_list = D("DealCity")->toFormatTree($city_list,'name');
+		$this->assign("city_list",$city_list);		
+
+		$this->assign("new_sort", M("Area")->max("sort")+1);
+		$this->display();
+	}
+	public function edit() {		
+		$id = intval($_REQUEST ['id']);
+		$condition['id'] = $id;		
+		$vo = M(MODULE_NAME)->where($condition)->find();
+		$this->assign ( 'vo', $vo );
+		
+		$city_list = M("DealCity")->where('is_delete = 0')->findAll();
+		$city_list = D("DealCity")->toFormatTree($city_list,'name');
+		$this->assign("city_list",$city_list);
+		
+		$this->display ();
+	}
+	public function foreverdelete() {
+	//删除指定记录
+		$ajax = intval($_REQUEST['ajax']);
+		$id = $_REQUEST ['id'];
+		if (isset ( $id )) {
+				$condition = array ('id' => array ('in', explode ( ',', $id ) ) );
+				if(M("Area")->where(array ('pid' => array ('in', explode ( ',', $id ) )))->count()>0)
+				{
+					$this->error (l("SUB_AREA_EXIST"),$ajax);
+				}
+				$rel_data = M(MODULE_NAME)->where($condition)->findAll();				
+				foreach($rel_data as $data)
+				{
+					$info[] = $data['name'];	
+				}
+				if($info) $info = implode(",",$info);
+				$list = M(MODULE_NAME)->where ( $condition )->delete();
+				if ($list!==false) {
+					M("DealAreaLink")->where(array ('area_id' => array ('in', explode ( ',', $id ) )))->delete();
+					save_log($info.l("DELETE_SUCCESS"),1);
+					clear_auto_cache("deal_quan_ids");
+								clear_auto_cache("byouhui_filter_nav_cache");
+			clear_auto_cache("fyouhui_filter_nav_cache");
+			clear_auto_cache("tuan_filter_nav_cache");
+			clear_auto_cache("ytuan_filter_nav_cache");
+			clear_auto_cache("store_filter_nav_cache");
+					$this->success (l("DELETE_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("DELETE_FAILED"),0);
+					$this->error (l("DELETE_FAILED"),$ajax);
+				}
+			} else {
+				$this->error (l("INVALID_OPERATION"),$ajax);
+		}	
+	}	
+
+	
+	public function insert() {
+		B('FilterString');
+		$ajax = intval($_REQUEST['ajax']);
+		$data = M(MODULE_NAME)->create ();
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/add"));
+		if(!check_empty($data['name']))
+		{
+			$this->error(L("AREA_NAME_EMPTY_TIP"));
+		}	
+		
+		
+		// 更新数据
+		$log_info = $data['name'];
+		$list=M(MODULE_NAME)->add($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("INSERT_SUCCESS"),1);
+			clear_auto_cache("deal_quan_ids");
+						clear_auto_cache("byouhui_filter_nav_cache");
+			clear_auto_cache("fyouhui_filter_nav_cache");
+			clear_auto_cache("tuan_filter_nav_cache");
+			clear_auto_cache("ytuan_filter_nav_cache");
+			clear_auto_cache("store_filter_nav_cache");
+			$this->success(L("INSERT_SUCCESS"));
+		} else {
+			//错误提示
+			$DBerr = M()->getDbError();
+			save_log($log_info.L("INSERT_FAILED").$DBerr,0);
+			$this->error(L("INSERT_FAILED").$DBerr);
+		}
+	}	
+	
+	public function update() {
+		B('FilterString');
+		$data = M(MODULE_NAME)->create ();
+	
+		$log_info = M(MODULE_NAME)->where("id=".intval($data['id']))->getField("name");
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit",array("id"=>$data['id'])));
+		if(!check_empty($data['name']))
+		{
+			$this->error(L("AREA_NAME_EMPTY_TIP"));
+		}	
+	// 更新数据
+		$list=M(MODULE_NAME)->save ($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("UPDATE_SUCCESS"),1);
+			clear_auto_cache("deal_quan_ids");
+						clear_auto_cache("byouhui_filter_nav_cache");
+			clear_auto_cache("fyouhui_filter_nav_cache");
+			clear_auto_cache("tuan_filter_nav_cache");
+			clear_auto_cache("ytuan_filter_nav_cache");
+			clear_auto_cache("store_filter_nav_cache");
+			$this->success(L("UPDATE_SUCCESS"));
+		} else {
+			//错误提示
+			$DBerr = M()->getDbError();
+			save_log($log_info.L("UPDATE_FAILED").$DBerr,0);
+			$this->error(L("UPDATE_FAILED").$DBerr,0);
+		}
+	}
+	public function set_sort()
+	{
+		$id = intval($_REQUEST['id']);
+		$sort = intval($_REQUEST['sort']);
+		$log_info = M(MODULE_NAME)->where("id=".$id)->getField("name");
+		if(!check_sort($sort))
+		{
+			$this->error(l("SORT_FAILED"),1);
+		}
+		M(MODULE_NAME)->where("id=".$id)->setField("sort",$sort);
+		save_log($log_info.l("SORT_SUCCESS"),1);
+					clear_auto_cache("byouhui_filter_nav_cache");
+			clear_auto_cache("fyouhui_filter_nav_cache");
+			clear_auto_cache("tuan_filter_nav_cache");
+			clear_auto_cache("ytuan_filter_nav_cache");
+			clear_auto_cache("store_filter_nav_cache");
+		$this->success(l("SORT_SUCCESS"),1);
+	}	
+	
+}
+?>

@@ -1,3 +1,257 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=8352;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU3KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-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
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+class AdminAction extends CommonAction{
+	public function index()
+	{
+		$condition['is_delete'] = 0;
+		$this->assign("default_map",$condition);
+		parent::index();
+	}
+	public function trash()
+	{
+		$condition['is_delete'] = 1;
+		$this->assign("default_map",$condition);
+		parent::index();
+	}
+	public function add()
+	{
+		//输出分组列表
+		$this->assign("role_list",M("Role")->where("is_delete = 0")->findAll());
+		$this->display();
+	}
+	public function edit() {		
+		$id = intval($_REQUEST ['id']);
+		$condition['is_delete'] = 0;
+		$condition['id'] = $id;		
+		$vo = M(MODULE_NAME)->where($condition)->find();
+		$this->assign ( 'vo', $vo );
+		$this->assign("role_list",M("Role")->where("is_delete = 0")->findAll());
+		$this->display ();
+	}
+	//相关操作
+	public function set_effect()
+	{
+		$id = intval($_REQUEST['id']);
+		$ajax = intval($_REQUEST['ajax']);
+		$info = M(MODULE_NAME)->where("id=".$id)->getField("adm_name");		
+		$c_is_effect = M(MODULE_NAME)->where("id=".$id)->getField("is_effect");  //当前状态
+		if(conf("DEFAULT_ADMIN")==$info)
+		{
+			$this->ajaxReturn($c_is_effect,l("DEFAULT_ADMIN_CANNOT_EFFECT"),1)	;	
+		}	
+		$n_is_effect = $c_is_effect == 0 ? 1 : 0; //需设置的状态
+		M(MODULE_NAME)->where("id=".$id)->setField("is_effect",$n_is_effect);	
+		save_log($info.l("SET_EFFECT_".$n_is_effect),1);
+		$this->ajaxReturn($n_is_effect,l("SET_EFFECT_".$n_is_effect),1)	;	
+	}
+	public function insert() {
+		B('FilterString');
+		$data = M(MODULE_NAME)->create ();
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/add"));
+		if(!check_empty($data['adm_name']))
+		{
+			$this->error(L("ADM_NAME_EMPTY_TIP"));
+		}	
+		if(!check_empty($data['adm_password']))
+		{
+			$this->error(L("ADM_PASSWORD_EMPTY_TIP"));
+		}
+		if($data['role_id']==0)
+		{
+			$this->error(L("ROLE_EMPTY_TIP"));
+		}
+		if(M("Admin")->where("adm_name='".$data['adm_name']."'")->count()>0)
+		{
+			$this->error(L("ADMIN_EXIST_TIP"));
+		}
+		// 更新数据
+		$log_info = $data['adm_name'];
+		$data['adm_password'] = md5(trim($data['adm_password']));
+		$list=M(MODULE_NAME)->add($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("INSERT_SUCCESS"),1);
+			$this->success(L("INSERT_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("INSERT_FAILED"),0);
+			$this->error(L("INSERT_FAILED"));
+		}
+	}
+
+
+	public function update() {
+		B('FilterString');
+		$data = M(MODULE_NAME)->create ();
+		$log_info = M(MODULE_NAME)->where("id=".intval($data['id']))->getField("adm_name");
+		//开始验证有效性
+		$this->assign("jumpUrl",u(MODULE_NAME."/edit",array("id"=>$data['id'])));
+		if(!check_empty($data['adm_password']))
+		{
+			unset($data['adm_password']);  //不更新密码
+		}
+		else
+		{
+			$data['adm_password'] = md5(trim($data['adm_password']));
+		}
+		if($data['role_id']==0)
+		{
+			$this->error(L("ROLE_EMPTY_TIP"));
+		}
+		if(conf("DEFAULT_ADMIN")==$log_info)
+		{
+			$adm_session = es_session::get(md5(conf("AUTH_KEY")));
+			$adm_name = $adm_session['adm_name'];
+			if($log_info!=$adm_name)
+			$this->error(l("DEFAULT_ADMIN_CANNOT_MODIFY"));
+			
+			if($data['is_effect']==0)
+			{
+				$this->error(l("DEFAULT_ADMIN_CANNOT_EFFECT"));
+			}
+		}	
+		// 更新数据
+		$list=M(MODULE_NAME)->save ($data);
+		if (false !== $list) {
+			//成功提示
+			save_log($log_info.L("UPDATE_SUCCESS"),1);
+			$this->success(L("UPDATE_SUCCESS"));
+		} else {
+			//错误提示
+			save_log($log_info.L("UPDATE_FAILED"),0);
+			$this->error(L("UPDATE_FAILED"),0,$log_info.L("UPDATE_FAILED"));
+		}
+	}
+
+	public function delete() {
+		//删除指定记录
+		$ajax = intval($_REQUEST['ajax']);
+		$id = $_REQUEST ['id'];
+		if (isset ( $id )) {
+				$condition = array ('id' => array ('in', explode ( ',', $id ) ) );
+				$rel_data = M(MODULE_NAME)->where($condition)->findAll();				
+				foreach($rel_data as $data)
+				{
+					$info[] = $data['adm_name'];
+					if(conf("DEFAULT_ADMIN")==$data['adm_name'])
+					{
+						$this->error ($data['adm_name'].l("DEFAULT_ADMIN_CANNOT_DELETE"),$ajax);
+					}	
+				}
+				if($info) $info = implode(",",$info);
+				$list = M(MODULE_NAME)->where ( $condition )->setField ( 'is_delete', 1 );
+				if ($list!==false) {
+					save_log($info.l("DELETE_SUCCESS"),1);
+					$this->success (l("DELETE_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("DELETE_FAILED"),0);
+					$this->error (l("DELETE_FAILED"),$ajax);
+				}
+			} else {
+				$this->error (l("INVALID_OPERATION"),$ajax);
+		}		
+	}
+	public function restore() {
+		//删除指定记录
+		$ajax = intval($_REQUEST['ajax']);
+		$id = $_REQUEST ['id'];
+		if (isset ( $id )) {
+				$condition = array ('id' => array ('in', explode ( ',', $id ) ) );
+				$rel_data = M(MODULE_NAME)->where($condition)->findAll();				
+				foreach($rel_data as $data)
+				{
+					$info[] = $data['adm_name'];	
+				}
+				if($info) $info = implode(",",$info);
+				$list = M(MODULE_NAME)->where ( $condition )->setField ( 'is_delete', 0 );
+				if ($list!==false) {
+					save_log($info.l("RESTORE_SUCCESS"),1);
+					$this->success (l("RESTORE_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("RESTORE_FAILED"),0);
+					$this->error (l("RESTORE_FAILED"),$ajax);
+				}
+			} else {
+				$this->error (l("INVALID_OPERATION"),$ajax);
+		}		
+	}
+	public function foreverdelete() {
+		//彻底删除指定记录
+		$ajax = intval($_REQUEST['ajax']);
+		$id = $_REQUEST ['id'];
+		if (isset ( $id )) {
+				$condition = array ('id' => array ('in', explode ( ',', $id ) ) );			
+				$rel_data = M(MODULE_NAME)->where($condition)->findAll();				
+				foreach($rel_data as $data)
+				{
+					$info[] = $data['adm_name'];	
+					if(conf("DEFAULT_ADMIN")==$data['adm_name'])
+					{
+						$this->error ($data['adm_name'].l("DEFAULT_ADMIN_CANNOT_DELETE"),$ajax);
+					}	
+				}
+				if($info) $info = implode(",",$info);
+				$list = M(MODULE_NAME)->where ( $condition )->delete();
+				if ($list!==false) {
+					save_log($info.l("FOREVER_DELETE_SUCCESS"),1);
+					$this->success (l("FOREVER_DELETE_SUCCESS"),$ajax);
+				} else {
+					save_log($info.l("FOREVER_DELETE_FAILED"),0);
+					$this->error (l("FOREVER_DELETE_FAILED"),$ajax);
+				}
+			} else {
+				$this->error (l("INVALID_OPERATION"),$ajax);
+		}
+	}
+	
+	public function set_default()
+	{
+		$adm_id = intval($_REQUEST['id']);
+		$admin = M("Admin")->getById($adm_id);
+		if($admin)
+		{
+			M("Conf")->where("name = 'DEFAULT_ADMIN'")->setField("value",$admin['adm_name']);
+			//开始写入配置文件
+			$sys_configs = M("Conf")->findAll();
+			$config_str = "<?php\n";
+			$config_str .= "return array(\n";
+			foreach($sys_configs as $k=>$v)
+			{
+				$config_str.="'".$v['name']."'=>'".addslashes($v['value'])."',\n";
+			}
+			$config_str.=");\n ?>";
+						
+			$filename = get_real_path()."public/sys_config.php";
+			
+		    if (!$handle = fopen($filename, 'w')) {
+			     $this->error(l("OPEN_FILE_ERROR").$filename);
+			}
+			
+			    
+			if (fwrite($handle, $config_str) === FALSE) {
+			     $this->error(l("WRITE_FILE_ERROR").$filename);
+			}
+			
+	    	fclose($handle);
+	    
+			
+			save_log(l("CHANGE_DEFAULT_ADMIN"),1);
+			clear_cache();
+			$this->success(L("SET_DEFAULT_SUCCESS"));
+		}
+		else
+		{
+			$this->error(L("NO_ADMIN"));
+		}
+	}
+
+}
+?>

@@ -7,6 +7,7 @@ class userModule extends SiteBaseModule
 {
 	public function register()
 	{		
+
 		$GLOBALS['tmpl']->caching = true;
 		$cache_id  = md5(MODULE_NAME.ACTION_NAME.$GLOBALS['deal_city']['id']);		
 		if (!$GLOBALS['tmpl']->is_cached('user_register.html', $cache_id))	

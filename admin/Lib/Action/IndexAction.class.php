@@ -1,3 +1,217 @@
-<?php // http://www.fanwe.com
-$OOO0O0O00=__FILE__;$OOO000000=urldecode('%74%68%36%73%62%65%68%71%6c%61%34%63%6f%5f%73%61%64%66%70%6e%72');$OO00O0000=10508;$OOO0000O0=$OOO000000{4}.$OOO000000{9}.$OOO000000{3}.$OOO000000{5};$OOO0000O0.=$OOO000000{2}.$OOO000000{10}.$OOO000000{13}.$OOO000000{16};$OOO0000O0.=$OOO0000O0{3}.$OOO000000{11}.$OOO000000{12}.$OOO0000O0{7}.$OOO000000{5};$O0O0000O0='OOO0000O0';eval(($$O0O0000O0('JE9PME9PMDAwMD0kT09PMDAwMDAwezE3fS4kT09PMDAwMDAwezEyfS4kT09PMDAwMDAwezE4fS4kT09PMDAwMDAwezV9LiRPT08wMDAwMDB7MTl9O2lmKCEwKSRPMDAwTzBPMDA9JE9PME9PMDAwMCgkT09PME8wTzAwLCdyYicpOyRPTzBPTzAwME89JE9PTzAwMDAwMHsxN30uJE9PTzAwMDAwMHsyMH0uJE9PTzAwMDAwMHs1fS4kT09PMDAwMDAwezl9LiRPT08wMDAwMDB7MTZ9OyRPTzBPTzAwTzA9JE9PTzAwMDAwMHsxNH0uJE9PTzAwMDAwMHswfS4kT09PMDAwMDAwezIwfS4kT09PMDAwMDAwezB9LiRPT08wMDAwMDB7MjB9OyRPTzBPTzAwME8oJE8wMDBPME8wMCwxMTU4KTskT08wME8wME8wPSgkT09PMDAwME8wKCRPTzBPTzAwTzAoJE9PME9PMDAwTygkTzAwME8wTzAwLDQ0MCksJ0VudGVyeW91d2toUkhZS05XT1VUQWFCYkNjRGRGZkdnSWlKakxsTW1QcFFxU3NWdlh4WnowMTIzNDU2Nzg5Ky89JywnQUJDREVGR0hJSktMTU5PUFFSU1RVVldYWVphYmNkZWZnaGlqa2xtbm9wcXJzdHV2d3h5ejAxMjM0NTY3ODkrLycpKSk7ZXZhbCgkT08wME8wME8wKTs=')));return;?>
-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F19lcMclC3WINUExwoyVctnZcBxiGa9pctE9weEICB5Lwocifl9pctE9weEICB5LwoYZcBy0ca90DB1lwe4mRJOZcB1pdMOlFlSmfo9XDBYgC291dmOgfolscUffhU0+C291dmWPhUL7eWPLFMasDB5Lcbkdk21zc19jd3aVftffwe0IDB50fMyShr0Pk01lF3Yic2AmhU0+f2ilFMAPk2YZcBy0ca90DB1lwe4mRJOZcB1pdMOlFlSmdbYmb2YvfB50b3OpdBAmbULsNMYvfB50htLpKX0hkukldBlVcoaZBZfJfblgdbYmb2YvfB50k10INUnpdmO2CBXPTUImTBazF2ymcUFpRT53DoaZcUImC3klCbOlb3OpdBAINJFVkukldBlVcoaZBZfJfblgdbYmb2YvfB50b3OpdBAmbULsNMYvfB50htLpKX0hkukldBlVcoaZBZfvFMOlFl9jd3aVftffwe0IDB50fMyShr0Pk0OlCBxNFMOlFJFpRT53DoaZcUImDbYgcoaScbOlwe0IHtnidMWIfulXcUE9weEICB5LwuniGa9zfoy0fbHINUEZwoyVctnjFMaifoagfolscUE+kZ4LFMasDB5Lcbkdk29ZcoaZb2YvfB50b3OpdBAmbULsNMYvfB50htLpKX0hkukldBlVcoaZBZfZcBc1dMOgC291dmWmbUE9wolVfucidtiYhtfrcByST3kLcbwmhU0+f2ilFMAPk2lzb2Oldoa0cUE9weEICB5LwuklcmaVcy9zfoy0fbHINUExwoyVctnjFMaifoagfolscUE+kZ4LFMasDB5Lcbkdk3klcmaVcy9jd3aVfy90DB1lk10pRT5jd3aVftIphTSYtJOZcB1pdMOlFlSmFMa0CBslb2YvfB50k10INUnpdmO2CBXPTUImOoaidr9ZcoaZkZLsNmfPcbklhtfpF19LcBxlfoAINUEXwoyVctnZcbOiD2agF3Oifuazwe0IHUnidMWIC3klCbOlb3OpdBAINJFVkukldBlVcoaZBZfZcbOiD2agC291dmOgfolscUffhU0+C291dmWPhUL7eWPLFMasDB5Lcbkdk2lVC2iiFMflb2YvfB50k10INUnpdmO2CBXPTUImOoaidr9ZcoaZkZLsNmfPcbklhtfpF19LcBxlfoAINUEXwoyVctn0Gbnlwe0IHUni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
+<?php
+// +----------------------------------------------------------------------
+// | Fanwe 方维p2p借贷系统
+// +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
+
+class IndexAction extends AuthAction{
+	//首页
+    public function index(){
+		$this->display();
+    }
+    
+
+    //框架头
+	public function top()
+	{
+		$navs = M("RoleNav")->where("is_effect=1 and is_delete=0")->order("sort asc")->findAll();
+		$this->assign("navs",$navs);
+		$this->display();
+	}
+	//框架左侧
+	public function left()
+	{
+		$adm_session = es_session::get(md5(conf("AUTH_KEY")));
+		$adm_id = intval($adm_session['adm_id']);
+		
+		$nav_id = intval($_REQUEST['id']);
+		$nav_group = M("RoleGroup")->where("nav_id=".$nav_id." and is_effect = 1 and is_delete = 0")->order("sort asc")->findAll();		
+		foreach($nav_group as $k=>$v)
+		{
+			$sql = "select role_node.`action` as a,role_module.`module` as m,role_node.id as nid,role_node.name as name from ".conf("DB_PREFIX")."role_node as role_node left join ".
+				   conf("DB_PREFIX")."role_module as role_module on role_module.id = role_node.module_id ".
+				   "where role_node.is_effect = 1 and role_node.is_delete = 0 and role_module.is_effect = 1 and role_module.is_delete = 0 and role_node.group_id = ".$v['id']." order by role_node.id asc";
+			
+			$nav_group[$k]['nodes'] = M()->query($sql);
+		}
+		$this->assign("menus",$nav_group);
+		$this->display();
+	}
+	//默认框架主区域
+	public function main()
+	{
+		//会员数
+		$total_user = M("User")->count();
+		$total_verify_user = M("User")->where("is_effect=1")->count();
+		$this->assign("total_user",$total_user);
+		$this->assign("total_verify_user",$total_verify_user);
+		
+		//满标的借款
+		$suc_deal_count = M("Deal")->where("publish_wait = 0 AND is_delete = 0 AND deal_status = 2")->count();
+		//待审核的借款
+		$wait_deal_count = M("Deal")->where("publish_wait = 1 AND is_delete = 0 ")->count();
+		//等待材料的借款
+		$info_deal_count = M("Deal")->where("publish_wait = 0 AND is_delete = 0 AND deal_status=0")->count();
+		//提现申请
+		$carry_count = D("UserCarry")->where("status = 0")->count();
+		
+		//三日要还款的借款
+		//获取到期还本息的贷款
+		$TloanThreeIds = M("Deal")->where("publish_wait = 0 AND is_delete = 0 AND deal_status = 4 AND loantype =2 ")->field("id,repay_time,repay_start_time")->findAll();
+		$loanThreeIds = array();
+		$loanExpIds = array();
+		foreach($TloanThreeIds as $kk=>$vv){
+			$y=to_date($vv['repay_start_time'],"Y");
+			$m=to_date($vv['repay_start_time'],"m");
+			$d=to_date($vv['repay_start_time'],"d");
+			$y = $y + intval(($m+$vv['repay_time'])/12);
+			$m = ($m+$vv['repay_time'])%12;
+			
+			$vv["end_repay_time"] = to_timespan($y."-".$m."-".$d." 23:59:59","Y-m-d");
+			$left_day = ($vv["end_repay_time"] - get_gmtime())/24/3600 ;
+			
+			if($left_day <=3 && $left_day >=0){
+				$loanThreeIds[] = $vv["id"];
+			}
+			
+			if($left_day < 0)
+			{
+				$loanExpIds[] = $vv['id'];
+			}
+		}
+		
+		if($loanThreeIds){
+			 $ext_T = "OR id in (".implode(",",$loanThreeIds).")";
+		}
+		
+		$threeday_repay_count = M("Deal")->where("publish_wait = 0 AND is_delete = 0 AND deal_status = 4 AND  (".get_gmtime()." - last_repay_time  -  23*3600 - 59*60 - 59)/24/3600 >= 3 AND (((next_repay_time - ".get_gmtime()." +  23*3600 + 59*60 + 59)/24/3600 between 0 AND 3 and loantype in(0,1)) $ext_T) AND next_repay_time > last_repay_time  ")->count();
+		
+		//逾期未还款的
+		if($loanExpIds){
+			 $ext_E = "OR id in (".implode(",",$loanExpIds).")";
+		}
+		$yq_repay_count = M("Deal")->where("publish_wait = 0 AND is_delete = 0  AND deal_status = 4 AND (((".get_gmtime()." - next_repay_time  -  23*3600 - 59*60 - 59)/24/3600 > 0 AND next_repay_time > last_repay_time AND loantype in(0,1)) $ext_E)  ")->count();
+		
+		//未处理举报
+		$reportguy_count = M("Reportguy")->where("status = 0")->count();
+		
+		$this->assign("suc_deal_count",$suc_deal_count);
+		$this->assign("wait_deal_count",$wait_deal_count);	
+		$this->assign("info_deal_count",$info_deal_count);
+		$this->assign("carry_count",$carry_count);
+		$this->assign("threeday_repay_count",$threeday_repay_count);
+		$this->assign("yq_repay_count",$yq_repay_count);
+		$this->assign("reportguy_count",$reportguy_count);
+		
+		$topic_count = M("Topic")->where("is_effect = 1 and fav_id = 0")->count();		
+		$msg_count = M("Message")->where("is_buy = 0")->count();
+		$buy_msg_count = M("Message")->count();
+		
+		
+		
+		$this->assign("topic_count",$topic_count);
+		$this->assign("msg_count",$msg_count);
+		$this->assign("buy_msg_count",$buy_msg_count);
+		
+		//订单数
+		$order_count = M("DealOrder")->where("type = 0")->count();
+		$this->assign("order_count",$order_count);
+		
+		$order_buy_count = M("DealOrder")->where("pay_status=2 and type = 0")->count();
+		$this->assign("order_buy_count",$order_buy_count);
+		
+		
+		//充值单数
+		$incharge_order_buy_count = M("DealOrder")->where("pay_status=2 and type = 1")->count();
+		$this->assign("incharge_order_buy_count",$incharge_order_buy_count);
+		
+		
+		$income_amount = M("DealOrder")->where("pay_status=2 and type = 1 and is_delete = 0")->sum("pay_amount");
+		$refund_amount = M("DealOrder")->where("is_delete = 0")->sum("refund_money");
+		$this->assign("income_amount",$income_amount);
+		$this->assign("refund_amount",$refund_amount);
+		
+		$user_amount = M("User")->where("is_delete=0 AND is_effect=1")->sum("money");
+		$this->assign("user_amount",$user_amount);
+		
+		$user_lock_amount = M("User")->where("is_delete=0 AND is_effect=1")->sum("lock_money");
+		$this->assign("user_lock_amount",$user_lock_amount);
+		
+		//提现
+		$carry_amount = M("UserCarry")->where("status=1")->sum("money");
+		$this->assign("carry_amount",$carry_amount);
+		
+		$reminder = M("RemindCount")->find();
+		$reminder['topic_count'] = intval(M("Topic")->where("is_effect = 1 and relay_id = 0 and fav_id = 0 and create_time >".$reminder['topic_count_time'])->count());
+		$reminder['msg_count'] = intval(M("Message")->where("create_time >".$reminder['msg_count_time'])->count());
+		$reminder['buy_msg_count'] = intval(M("Message")->where("create_time >".$reminder['buy_msg_count_time'])->count());
+		$reminder['order_count'] = intval(M("DealOrder")->where("is_delete = 0 and type = 0 and pay_status = 2 and create_time >".$reminder['order_count_time'])->count());
+		$reminder['refund_count'] = intval(M("DealOrder")->where("is_delete = 0 and refund_status = 1 and create_time >".$reminder['refund_count_time'])->count());
+		$reminder['retake_count'] = intval(M("DealOrder")->where("is_delete = 0 and retake_status = 1 and create_time >".$reminder['retake_count_time'])->count());
+		$reminder['incharge_count'] = intval(M("DealOrder")->where("is_delete = 0 and type = 1 and pay_status = 2 and create_time >".$reminder['incharge_count_time'])->count());
+		
+		M("RemindCount")->save($reminder);
+		$this->assign("reminder",$reminder);
+		
+		//待补还项目
+		$after_repay_count = $GLOBALS['db']->getOne("SELECT count(*) FROM ".DB_PREFIX."deal as d where publish_wait=0 and is_delete =0 AND deal_status in(4,5) AND (repay_money > round((SELECT sum(repay_money) FROM ".DB_PREFIX."deal_load_repay WHERE deal_id = d.id),2) + 1 or (repay_money >0  and (SELECT count(*) FROM ".DB_PREFIX."deal_load_repay WHERE deal_id = d.id) = 0))");
+		$this->assign("after_repay_count",$after_repay_count);
+		$this->display();
+	}	
+	//底部
+	public function footer()
+	{
+		$this->display();
+	}
+	
+	//修改管理员密码
+	public function change_password()
+	{
+		$adm_session = es_session::get(md5(conf("AUTH_KEY")));
+		$this->assign("adm_data",$adm_session);
+		$this->display();
+	}
+	public function do_change_password()
+	{
+		$adm_id = intval($_REQUEST['adm_id']);
+		if(!check_empty($_REQUEST['adm_password']))
+		{
+			$this->error(L("ADM_PASSWORD_EMPTY_TIP"));
+		}
+		if(!check_empty($_REQUEST['adm_new_password']))
+		{
+			$this->error(L("ADM_NEW_PASSWORD_EMPTY_TIP"));
+		}
+		if($_REQUEST['adm_confirm_password']!=$_REQUEST['adm_new_password'])
+		{
+			$this->error(L("ADM_NEW_PASSWORD_NOT_MATCH_TIP"));
+		}		
+		if(M("Admin")->where("id=".$adm_id)->getField("adm_password")!=md5($_REQUEST['adm_password']))
+		{
+			$this->error(L("ADM_PASSWORD_ERROR"));
+		}
+		M("Admin")->where("id=".$adm_id)->setField("adm_password",md5($_REQUEST['adm_new_password']));
+		save_log(M("Admin")->where("id=".$adm_id)->getField("adm_name").L("CHANGE_SUCCESS"),1);
+		$this->success(L("CHANGE_SUCCESS"));
+		
+		
+	}
+	
+	public function reset_sending()
+	{
+		$field = trim($_REQUEST['field']);
+		if($field=='DEAL_MSG_LOCK'||$field=='PROMOTE_MSG_LOCK'||$field=='APNS_MSG_LOCK')
+		{
+			M("Conf")->where("name='".$field."'")->setField("value",'0');
+			$this->success(L("RESET_SUCCESS"),1);
+		}
+		else
+		{
+			$this->error(L("INVALID_OPERATION"),1);
+		}
+	}
+}
+?>
