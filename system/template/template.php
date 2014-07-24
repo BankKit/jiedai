@@ -2,6 +2,10 @@
 // +----------------------------------------------------------------------
 // | Fanwe 方维p2p借贷系统
 // +----------------------------------------------------------------------
+// | Copyright (c) 2011 http://www.fanwe.com All rights reserved.
+// +----------------------------------------------------------------------
+// | Author: 云淡风轻(88522820@qq.com)
+// +----------------------------------------------------------------------
 
 class AppTemplate
 {
@@ -35,7 +39,7 @@ class AppTemplate
 
     function APP_TMPL_PATH()
     {
-        $this->_errorlevel = error_reporting(E_ALL ^E_STRICT ^E_NOTICE ^E_DEPRECATED);
+        $this->_errorlevel = error_reporting(0);
         $this->_nowtime    = time();
         header('Content-type: text/html; charset=utf-8');
     }
@@ -83,7 +87,7 @@ class AppTemplate
     {
         if (!$this->_seterror)
         {
-            error_reporting(E_ALL ^E_STRICT ^E_NOTICE ^E_DEPRECATED);
+            error_reporting(0);
         }
         $this->_seterror++;
 
@@ -163,7 +167,7 @@ class AppTemplate
         $this->_seterror--;
         if (!$this->_seterror)
         {
-            error_reporting(E_ALL ^E_STRICT ^E_NOTICE ^E_DEPRECATED);
+            error_reporting(0);
         }
 
         $out = str_replace("{%city%}",$GLOBALS['deal_city']['name'],$out);
@@ -239,7 +243,7 @@ class AppTemplate
     function display($filename, $cache_id = '')
     {
         $this->_seterror++;
-        error_reporting(E_ALL ^E_STRICT ^E_NOTICE ^E_DEPRECATED);
+        error_reporting(0);
 
         $this->_checkfile = false;
         $out = $this->fetch($filename, $cache_id);
@@ -255,7 +259,7 @@ class AppTemplate
             }
             $out = implode('', $k);
         }
-        error_reporting(E_ALL ^E_STRICT ^E_NOTICE ^E_DEPRECATED);
+        error_reporting(0);
         $this->_seterror--;      
         
         gzip_out($out);
